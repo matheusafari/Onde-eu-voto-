@@ -88,45 +88,6 @@ Todo o conteúdo gerado deve ser revisado por uma pessoa. Os dados vêm de fonte
 | `ferramentas/requirements.txt` | Lista das bibliotecas Python que o script precisa. |
 | `.nojekyll` | Arquivo vazio que evita problemas no GitHub Pages. |
 
-## Como colocar no ar pelo GitHub (sem usar terminal)
-
-1. Entre em [github.com](https://github.com) e faça login.
-2. Clique em **+** (canto superior direito) e depois em **New repository**.
-3. Dê um nome, por exemplo `onde-eu-voto`. Deixe marcado **Public** e clique em **Create repository**.
-4. Na página do repositório, clique no link **uploading an existing file**.
-5. Abra a pasta do projeto no seu computador, selecione **todo o conteúdo dela** (não a pasta em si) e arraste para a página do GitHub.
-   - O arquivo `.nojekyll` fica oculto em alguns computadores. Se ele não aparecer, tudo bem: o site funciona sem ele.
-6. Clique em **Commit changes** e aguarde o envio.
-7. Vá em **Settings** → **Pages** (no menu da esquerda).
-8. Em **Branch**, escolha `main` e a pasta `/ (root)`. Clique em **Save**.
-9. Espere de 1 a 2 minutos e recarregue a página. O endereço do site aparece no topo, no formato:
-   `https://SEU-USUARIO.github.io/onde-eu-voto/`
-
-## Como atualizar os dados quando o TRE mudar a lista
-
-1. Abra a [lista de locais do TRE-RS para Porto Alegre](https://locais-votacao.tre-rs.jus.br/locais?q%5Bzona_numero_eq%5D=&q%5Bmunicipio_id_eq%5D=7994&q%5Bsecoes_numero_eq%5D=&button=).
-2. Salve a página como PDF (no navegador: Imprimir → Salvar como PDF).
-3. Substitua o arquivo `dados/fonte/locais-votacao-tre-rs.pdf` pelo novo, com o mesmo nome.
-4. Com o Python instalado, rode na pasta principal do projeto:
-
-   ```
-   pip install -r ferramentas/requirements.txt
-   python ferramentas/atualizar_dados.py
-   ```
-
-5. O script mostra quantos locais e seções encontrou. Confira se os números fazem sentido e envie os arquivos alterados para o GitHub (**Add file** → **Upload files**).
-
-## Como mudar textos ou cores
-
-Edite o `ferramentas/modelo.html` e rode o script de atualização de novo, para ele gerar um `index.html` novo com os dados. As cores ficam no começo do arquivo, nas linhas que começam com `--` (por exemplo `--brand`, a cor principal laranja).
-
-Se preferir editar direto o `index.html`, pode, mas a mudança some na próxima vez que o script for rodado.
-
-## Cuidados
-
-- Os dados são de **30/09/2026**. Antes de cada eleição, vale baixar o PDF de novo e rodar a atualização.
-- No PDF usado, o local "PUCRS – Prédio 50" (zona 159) aparece no fim da última página e pode ter sido cortado na impressão. Vale conferir no site do TRE se ele tem mais seções além das 18 listadas.
-
 ## Links
 
 - Consulta oficial do local de votação (TSE): https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor/onde-votar
