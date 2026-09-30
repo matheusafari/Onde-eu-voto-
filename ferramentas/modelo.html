@@ -1,0 +1,187 @@
+<title>Onde Eu Voto em Porto Alegre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Literata:opsz,wght@7..72,700&display=swap">
+<style>
+/* Layout: uma coluna estreita e centralizada, feita para letra grande e toque fácil */
+:root{
+  --bg:#fdf6f0;
+  --surface:#ffffff;
+  --ink:#2a1608;
+  --muted:#6b4a33;
+  --line:#e8cdb5;
+  --brand:#b34700;
+  --brand-ink:#ffffff;
+  --sun:#ff9a3c;
+  --ok-bg:#e6f4ea;
+  --ok-line:#1e7a3c;
+  --warn-bg:#fff4d6;
+  --warn-line:#9a6a00;
+  --focus:#1c5fd1;
+  --font-body:"Atkinson Hyperlegible", Verdana, Tahoma, sans-serif;
+  --font-display:"Literata", Georgia, "Times New Roman", serif;
+  --scale:1;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#1a120c;--surface:#261a12;--ink:#fbefe5;--muted:#d6b9a2;--line:#4a3424;
+  --brand:#ff9f55;--brand-ink:#1a0d03;--sun:#ffc38a;--ok-bg:#12301d;--ok-line:#5fd08a;
+  --warn-bg:#352a0b;--warn-line:#f0c24d;--focus:#8fb8ff;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1a120c;--surface:#261a12;--ink:#fbefe5;--muted:#d6b9a2;--line:#4a3424;
+  --brand:#ff9f55;--brand-ink:#1a0d03;--sun:#ffc38a;--ok-bg:#12301d;--ok-line:#5fd08a;
+  --warn-bg:#352a0b;--warn-line:#f0c24d;--focus:#8fb8ff;color-scheme:dark}
+
+html{font-size:calc(20px * var(--scale))}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:1rem;line-height:1.5;padding-inline:16px;padding-block:0 3rem}
+.wrap{max-width:34rem;margin:0 auto;display:flex;flex-direction:column;gap:1.4rem}
+header{display:flex;flex-direction:column;gap:.5rem;padding-top:1.4rem}
+.faixa{height:.5rem;border-radius:.25rem;background:linear-gradient(90deg,var(--brand) 0 70%,var(--sun) 70% 100%)}
+h1{font-family:var(--font-display);font-size:1.9rem;line-height:1.15;margin:.4rem 0 0;text-wrap:balance}
+.sub{color:var(--muted);margin:0;font-size:1.05rem}
+.tamanho{display:flex;gap:.5rem;align-items:center;flex-wrap:wrap;color:var(--muted);font-size:.9rem}
+.tamanho button{font:inherit;font-weight:700;font-size:1rem;min-width:3rem;min-height:2.6rem;border:2px solid var(--line);background:var(--surface);color:var(--ink);border-radius:.5rem;cursor:pointer}
+
+form{background:var(--surface);border:2px solid var(--line);border-radius:.9rem;padding:1.3rem;display:flex;flex-direction:column;gap:1.1rem}
+label{display:block;font-weight:700;font-size:1.15rem;margin-bottom:.35rem}
+.dica{display:block;color:var(--muted);font-size:.9rem;margin-top:.3rem}
+input{width:100%;box-sizing:border-box;font:inherit;font-size:1.6rem;font-weight:700;letter-spacing:.05em;padding:.6rem .8rem;border:3px solid var(--line);border-radius:.6rem;background:var(--bg);color:var(--ink);font-variant-numeric:tabular-nums}
+input:focus{outline:4px solid var(--focus);outline-offset:2px;border-color:var(--brand)}
+.btn{font:inherit;font-weight:700;font-size:1.25rem;min-height:3.6rem;border-radius:.7rem;border:0;cursor:pointer;padding:.6rem 1rem;text-align:center;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:.5rem;box-sizing:border-box;width:100%}
+.btn-principal{background:var(--brand);color:var(--brand-ink)}
+.btn-sec{background:var(--surface);color:var(--brand);border:3px solid var(--brand)}
+.btn:focus-visible,.tamanho button:focus-visible,a:focus-visible{outline:4px solid var(--focus);outline-offset:3px}
+
+.resultado{border-radius:.9rem;padding:1.3rem;display:flex;flex-direction:column;gap:.9rem;border:3px solid}
+.resultado.ok{background:var(--ok-bg);border-color:var(--ok-line)}
+.resultado.aviso{background:var(--warn-bg);border-color:var(--warn-line)}
+.resultado h2{font-family:var(--font-display);font-size:1.3rem;margin:0}
+.local-nome{font-size:1.5rem;font-weight:700;line-height:1.25;margin:0}
+.local-end{font-size:1.15rem;margin:0}
+.etiquetas{display:flex;flex-wrap:wrap;gap:.5rem}
+.etiqueta{background:var(--surface);border:2px solid var(--line);border-radius:.5rem;padding:.2rem .7rem;font-weight:700;font-variant-numeric:tabular-nums}
+.resultado p{margin:0}
+
+.ajuda{background:var(--surface);border:2px dashed var(--line);border-radius:.9rem;padding:1.3rem;display:flex;flex-direction:column;gap:.8rem}
+.ajuda h2{font-family:var(--font-display);font-size:1.25rem;margin:0}
+.ajuda p,.ajuda ul{margin:0}
+.ajuda ul{padding-left:1.2rem;display:flex;flex-direction:column;gap:.3rem}
+footer{color:var(--muted);font-size:.85rem}
+footer p{margin:0 0 .4rem}
+@media (prefers-reduced-motion:no-preference){.resultado{animation:entra .25s ease-out}@keyframes entra{from{transform:translateY(6px)}to{transform:none}}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="faixa" aria-hidden="true"></div>
+    <h1>Onde eu voto?</h1>
+    <p class="sub">Digite a sua <strong>zona</strong> e a sua <strong>seção</strong> para ver o endereço do seu local de votação em Porto Alegre.</p>
+    <div class="tamanho" aria-label="Tamanho da letra">
+      <span>Tamanho da letra:</span>
+      <button type="button" id="menor" aria-label="Diminuir a letra">A−</button>
+      <button type="button" id="maior" aria-label="Aumentar a letra">A+</button>
+    </div>
+  </header>
+
+  <form id="form" novalidate>
+    <div>
+      <label for="zona">Zona eleitoral</label>
+      <input id="zona" inputmode="numeric" pattern="[0-9]*" autocomplete="off" maxlength="4" placeholder="Ex.: 113">
+      <span class="dica">As zonas de Porto Alegre são: 1, 2, 111, 112, 113, 114, 158, 159, 160 e 161.</span>
+    </div>
+    <div>
+      <label for="secao">Seção</label>
+      <input id="secao" inputmode="numeric" pattern="[0-9]*" autocomplete="off" maxlength="4" placeholder="Ex.: 200">
+    </div>
+    <button class="btn btn-principal" type="submit">Procurar meu local</button>
+  </form>
+
+  <div id="saida" aria-live="polite"></div>
+
+  <section class="ajuda">
+    <h2>Não sabe sua zona ou seção?</h2>
+    <p>Esses números estão:</p>
+    <ul>
+      <li>no seu <strong>título de eleitor</strong> de papel;</li>
+      <li>no aplicativo <strong>e-Título</strong> do celular.</li>
+    </ul>
+    <p>Se não tiver nenhum dos dois, consulte no site oficial da Justiça Eleitoral usando o seu CPF ou nome.</p>
+    <a class="btn btn-sec" href="https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor/onde-votar" target="_blank" rel="noopener">Consultar no site do TSE</a>
+  </section>
+
+  <footer>
+    <p>Lista de locais do TRE-RS para Porto Alegre, consultada em 30/09/2026.</p>
+    <p>Este site não é oficial. Em caso de dúvida, confirme no site do TSE.</p>
+  </footer>
+</div>
+
+<script>
+const DADOS = __DADOS__;
+const TSE = "https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor/onde-votar";
+const indice = {};
+const zonas = new Set();
+DADOS.forEach((l, i) => { zonas.add(l.z); l.s.forEach(s => { indice[l.z + "-" + s] = i; }); });
+
+const $ = id => document.getElementById(id);
+const saida = $("saida");
+const esc = t => String(t).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const SIGLAS = new Set("UFRGS PUCRS SESC SENAC SENAI INSS TRT UFCSPA CEASA FASE CSE IMED CIEM CESI CESMAR EEEF EEEM EMEF EEEB EMEEF EEIEF EEF EMEB II FARGS TECH CE AV N".split(" "));
+const MINUS = new Set(["de","da","do","das","dos","e"]);
+const titulo = t => t.split(" ").map((w, i) => {
+  const limpo = w.replace(/[^A-ZÀ-Ú]/g, "");
+  if (SIGLAS.has(limpo) || /^[^AEIOUÀ-Ú]+$/.test(limpo)) return w;
+  const b = w.toLowerCase();
+  if (i > 0 && MINUS.has(b)) return b;
+  return b.replace(/(^|[(\-\/.'])([a-zà-ú])/g, (m, a, c) => a + c.toUpperCase());
+}).join(" ");
+
+function mostrarAviso(tituloTxt, texto) {
+  saida.innerHTML = `<div class="resultado aviso" role="alert">
+    <h2>${tituloTxt}</h2><p>${texto}</p>
+    <a class="btn btn-sec" href="${TSE}" target="_blank" rel="noopener">Consultar no site do TSE</a>
+  </div>`;
+}
+
+$("form").addEventListener("submit", e => {
+  e.preventDefault();
+  const z = parseInt($("zona").value.replace(/\D/g, ""), 10);
+  const s = parseInt($("secao").value.replace(/\D/g, ""), 10);
+  if (!z || !s) {
+    mostrarAviso("Faltou preencher", "Digite os dois números: a zona e a seção. Se não souber, use o botão abaixo.");
+    (!z ? $("zona") : $("secao")).focus();
+    return;
+  }
+  if (!zonas.has(z)) {
+    mostrarAviso("Zona não encontrada", `A zona ${z} não é de Porto Alegre. Confira o número no seu título ou consulte no site oficial.`);
+    return;
+  }
+  const i = indice[z + "-" + s];
+  if (i === undefined) {
+    mostrarAviso("Seção não encontrada", `Não achamos a seção ${s} na zona ${z}. Confira os números ou consulte no site oficial.`);
+    return;
+  }
+  const l = DADOS[i];
+  const mapa = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(l.e + ", Porto Alegre, RS");
+  saida.innerHTML = `<div class="resultado ok" tabindex="-1" id="achou">
+    <h2>Seu local de votação</h2>
+    <p class="local-nome">${esc(titulo(l.n))}</p>
+    <p class="local-end">${esc(titulo(l.e))}</p>
+    <div class="etiquetas"><span class="etiqueta">Zona ${z}</span><span class="etiqueta">Seção ${s}</span></div>
+    <a class="btn btn-principal" href="${mapa}" target="_blank" rel="noopener">Ver no mapa</a>
+    <button class="btn btn-sec" type="button" id="nova">Fazer nova consulta</button>
+  </div>`;
+  $("achou").focus();
+  $("nova").addEventListener("click", () => {
+    $("zona").value = ""; $("secao").value = ""; saida.innerHTML = ""; $("zona").focus();
+  });
+});
+
+let escala = 1;
+try { escala = parseFloat(localStorage.getItem("escala")) || 1; } catch (e) {}
+function aplicar() {
+  document.documentElement.style.setProperty("--scale", escala);
+  try { localStorage.setItem("escala", escala); } catch (e) {}
+}
+$("maior").addEventListener("click", () => { escala = Math.min(1.6, +(escala + 0.15).toFixed(2)); aplicar(); });
+$("menor").addEventListener("click", () => { escala = Math.max(0.85, +(escala - 0.15).toFixed(2)); aplicar(); });
+aplicar();
+</script>

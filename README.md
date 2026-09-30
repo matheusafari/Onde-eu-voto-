@@ -1,0 +1,133 @@
+# Onde eu voto? — Porto Alegre
+
+Site simples para a pessoa descobrir o endereço do seu local de votação em Porto Alegre digitando a **zona** e a **seção** do título de eleitor.
+
+> Este não é um site oficial. Os dados vêm da lista pública de locais de votação do TRE-RS. Em caso de dúvida, confirme sempre no [site do TSE](https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor/onde-votar).
+
+---
+
+## A ideia
+
+Muita gente, principalmente as pessoas idosas, tem dificuldade para usar os sites oficiais de consulta eleitoral. Eles pedem cadastro, CPF, data de nascimento, nome da mãe, e têm muitos menus e letras pequenas.
+
+A proposta deste projeto é o contrário: **uma página só, com duas perguntas e uma resposta**.
+
+1. A pessoa digita a zona.
+2. Digita a seção.
+3. Vê o nome da escola e o endereço onde vai votar, com um botão para abrir no mapa.
+
+Quem não sabe a zona e a seção não fica perdido: o site explica onde encontrar esses números (no título de eleitor de papel ou no aplicativo e-Título) e leva direto para a consulta oficial do TSE.
+
+O foco é **Porto Alegre**, com todas as 10 zonas eleitorais da cidade: 1, 2, 111, 112, 113, 114, 158, 159, 160 e 161.
+
+## Pensado para o público idoso
+
+- **Letra grande** em todo o site, usando uma fonte feita para pessoas com baixa visão.
+- **Botões A− e A+** para aumentar ou diminuir a letra. O site lembra a escolha na próxima visita.
+- **Campos grandes** que abrem o teclado de números no celular.
+- **Poucas informações por tela**: só o que a pessoa precisa.
+- **Mensagens claras** quando algo dá errado, dizendo o que fazer: faltou preencher, a zona não é de Porto Alegre ou a seção não foi encontrada.
+- **Botão "Ver no mapa"**, que abre o endereço no Google Maps para a pessoa ver o caminho.
+- **Bom contraste de cores**, no modo claro e no modo escuro do celular.
+- **Funciona com leitores de tela**: o resultado é anunciado assim que aparece.
+
+## Como funciona
+
+```
+PDF do TRE-RS  ──►  script em Python  ──►  lista de locais  ──►  index.html  ──►  navegador da pessoa
+(lista oficial)     (lê e organiza)        (zona, seções,       (site com os
+                                            endereço)            dados dentro)
+```
+
+1. **Origem dos dados.** O TRE-RS publica a lista de locais de votação de Porto Alegre, com o nome do local, o endereço e as seções de cada um. Essa página foi salva em PDF (`dados/fonte/locais-votacao-tre-rs.pdf`).
+2. **Extração.** O script `ferramentas/atualizar_dados.py` lê o PDF e separa cada local em zona, nome, endereço e seções. Ele usa a posição e o tamanho das letras na página para saber o que é nome, o que é endereço e o que é número de seção. Também junta os locais que ficaram divididos entre duas páginas do PDF.
+3. **Conferência.** O script avisa se alguma seção aparecer repetida. Na versão atual foram encontrados **346 locais e 3.078 seções**, sem repetição.
+4. **Montagem do site.** O script coloca a lista dentro do `index.html`. Assim o site não depende de servidor nem de banco de dados: é um único arquivo que funciona até aberto direto no computador.
+5. **Consulta.** Quando a pessoa digita zona e seção, o próprio navegador procura na lista e mostra o local na hora, sem enviar nada pela internet.
+
+### Privacidade
+
+O site não pede nome, CPF nem nenhum dado pessoal, e não envia o que a pessoa digita para lugar nenhum. A busca acontece toda no aparelho de quem está usando.
+
+## Ferramentas usadas
+
+| Ferramenta | Para que foi usada |
+|---|---|
+| **HTML, CSS e JavaScript** | O site em si. Sem frameworks, para ficar leve e fácil de manter. |
+| **Atkinson Hyperlegible** (Google Fonts) | Fonte principal. Foi criada pelo Braille Institute para facilitar a leitura de pessoas com baixa visão. |
+| **Literata** (Google Fonts) | Fonte dos títulos. |
+| **Python** | Linguagem do script que lê o PDF e atualiza os dados. |
+| **pdfplumber** | Biblioteca Python que lê o texto do PDF junto com a posição de cada palavra. |
+| **GitHub e GitHub Pages** | Guardar o código e publicar o site de graça na internet. |
+| **Lista de locais do TRE-RS** | Fonte oficial dos dados de Porto Alegre. |
+| **Consulta do TSE** | Link para quem não sabe a zona e a seção. |
+| **Google Maps** | Link para abrir o endereço do local no mapa. |
+| **Claude** (inteligência artificial da Anthropic) | Assistente usado no desenvolvimento. Veja abaixo. |
+
+### Como o Claude ajudou
+
+A ideia, o público e as decisões do projeto são do autor. O Claude, assistente de inteligência artificial da Anthropic (modelo Claude Opus 5.5), foi usado como ferramenta de apoio para:
+
+- ler o PDF do TRE-RS e extrair os 346 locais e 3.078 seções, conferindo se havia seções repetidas ou locais cortados entre páginas;
+- escrever o código do site (HTML, CSS e JavaScript) e o script de atualização em Python;
+- sugerir o visual pensado para idosos: tamanho de letra, contraste, botões grandes e mensagens simples;
+- organizar a pasta do projeto e escrever este README.
+
+Todo o conteúdo gerado deve ser revisado por uma pessoa. Os dados vêm de fonte oficial, mas podem mudar: por isso o site sempre indica o TSE como referência final.
+
+## O que tem nesta pasta
+
+| Arquivo | Para que serve |
+|---|---|
+| `index.html` | O site. É o único arquivo necessário para ele funcionar. |
+| `dados/locais-porto-alegre.json` | Todos os locais, com zona, seções e endereço. |
+| `dados/locais-porto-alegre.csv` | A mesma lista, uma linha por seção. Abre no Excel. |
+| `dados/fonte/locais-votacao-tre-rs.pdf` | O PDF original salvo do site do TRE-RS. |
+| `ferramentas/atualizar_dados.py` | Lê um PDF novo e atualiza os dados e o `index.html`. |
+| `ferramentas/modelo.html` | O modelo do site (visual e funcionamento), sem os dados. |
+| `ferramentas/requirements.txt` | Lista das bibliotecas Python que o script precisa. |
+| `.nojekyll` | Arquivo vazio que evita problemas no GitHub Pages. |
+
+## Como colocar no ar pelo GitHub (sem usar terminal)
+
+1. Entre em [github.com](https://github.com) e faça login.
+2. Clique em **+** (canto superior direito) e depois em **New repository**.
+3. Dê um nome, por exemplo `onde-eu-voto`. Deixe marcado **Public** e clique em **Create repository**.
+4. Na página do repositório, clique no link **uploading an existing file**.
+5. Abra a pasta do projeto no seu computador, selecione **todo o conteúdo dela** (não a pasta em si) e arraste para a página do GitHub.
+   - O arquivo `.nojekyll` fica oculto em alguns computadores. Se ele não aparecer, tudo bem: o site funciona sem ele.
+6. Clique em **Commit changes** e aguarde o envio.
+7. Vá em **Settings** → **Pages** (no menu da esquerda).
+8. Em **Branch**, escolha `main` e a pasta `/ (root)`. Clique em **Save**.
+9. Espere de 1 a 2 minutos e recarregue a página. O endereço do site aparece no topo, no formato:
+   `https://SEU-USUARIO.github.io/onde-eu-voto/`
+
+## Como atualizar os dados quando o TRE mudar a lista
+
+1. Abra a [lista de locais do TRE-RS para Porto Alegre](https://locais-votacao.tre-rs.jus.br/locais?q%5Bzona_numero_eq%5D=&q%5Bmunicipio_id_eq%5D=7994&q%5Bsecoes_numero_eq%5D=&button=).
+2. Salve a página como PDF (no navegador: Imprimir → Salvar como PDF).
+3. Substitua o arquivo `dados/fonte/locais-votacao-tre-rs.pdf` pelo novo, com o mesmo nome.
+4. Com o Python instalado, rode na pasta principal do projeto:
+
+   ```
+   pip install -r ferramentas/requirements.txt
+   python ferramentas/atualizar_dados.py
+   ```
+
+5. O script mostra quantos locais e seções encontrou. Confira se os números fazem sentido e envie os arquivos alterados para o GitHub (**Add file** → **Upload files**).
+
+## Como mudar textos ou cores
+
+Edite o `ferramentas/modelo.html` e rode o script de atualização de novo, para ele gerar um `index.html` novo com os dados. As cores ficam no começo do arquivo, nas linhas que começam com `--` (por exemplo `--brand`, a cor principal laranja).
+
+Se preferir editar direto o `index.html`, pode, mas a mudança some na próxima vez que o script for rodado.
+
+## Cuidados
+
+- Os dados são de **30/09/2026**. Antes de cada eleição, vale baixar o PDF de novo e rodar a atualização.
+- No PDF usado, o local "PUCRS – Prédio 50" (zona 159) aparece no fim da última página e pode ter sido cortado na impressão. Vale conferir no site do TRE se ele tem mais seções além das 18 listadas.
+
+## Links
+
+- Consulta oficial do local de votação (TSE): https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/atendimento-eleitor/onde-votar
+- Lista de locais do TRE-RS: https://locais-votacao.tre-rs.jus.br/

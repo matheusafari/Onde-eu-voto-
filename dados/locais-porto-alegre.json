@@ -1,0 +1,5848 @@
+[
+ {
+  "zona": 1,
+  "local": "COLÉGIO BOM JESUS - SEVIGNE",
+  "endereco": "RUA DUQUE DE CAXIAS,1443, CENTRO HISTÓRICO",
+  "secoes": [
+   16,
+   60,
+   89,
+   121,
+   148,
+   179,
+   208,
+   221,
+   244,
+   320
+  ],
+  "eleitores": 3862
+ },
+ {
+  "zona": 1,
+  "local": "COLÉGIO LA SALLE DORES",
+  "endereco": "RUA GENERAL JOÃO MANOEL, 335, CENTRO HISTÓRICO",
+  "secoes": [
+   4,
+   23,
+   50,
+   53,
+   63,
+   92,
+   93,
+   123,
+   136,
+   150,
+   155,
+   163,
+   175,
+   186,
+   214
+  ],
+  "eleitores": 4942
+ },
+ {
+  "zona": 1,
+  "local": "COLÉGIO ROMANO SANTA MARTA",
+  "endereco": "RUA MARCÍLIO DIAS, 1201, MENINO DEUS",
+  "secoes": [
+   7,
+   68,
+   240,
+   318
+  ],
+  "eleitores": 1450
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA DE ADMINISTRAÇÃO DA UFRGS",
+  "endereco": "RUA WASHINGTON LUIZ, 855, CENTRO HISTÓRICO",
+  "secoes": [
+   12,
+   71,
+   226,
+   247,
+   264
+  ],
+  "eleitores": 1729
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL AFONSO EMÍLIO MASSOT",
+  "endereco": "RUA JOSÉ HONORATO DOS SANTOS, 101, CIDADE BAIXA",
+  "secoes": [
+   6,
+   9,
+   79,
+   112,
+   134,
+   200,
+   207,
+   254
+  ],
+  "eleitores": 2260
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL ALMIRANTE BARROSO - I. PINTADA",
+  "endereco": "RUA CAPITÃO COELHO, 95 - ILHA DA PINTADA, ARQUIPÉLAGO",
+  "secoes": [
+   55,
+   56,
+   58,
+   235
+  ],
+  "eleitores": 1423
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL ALVARENGA PEIXOTO - I.G.MARINHEIROS",
+  "endereco": "TRAVESSIA GETÚLIO VARGAS, KM 02 - ILHA GRANDE DOS MARINHEIROS, ARQUIPÉLAGO",
+  "secoes": [
+   57,
+   162,
+   231,
+   266
+  ],
+  "eleitores": 1187
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL CANDIDO PORTINARI",
+  "endereco": "RUA MÚCIO TEIXEIRA, 252, MENINO DEUS",
+  "secoes": [
+   3,
+   22,
+   67,
+   84,
+   96,
+   118,
+   140,
+   156,
+   192,
+   204,
+   252
+  ],
+  "eleitores": 3628
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL DUQUE DE CAXIAS",
+  "endereco": "RUA GENERAL CALDWELL, 1175, MENINO DEUS",
+  "secoes": [
+   14,
+   27,
+   36,
+   87,
+   99,
+   101,
+   145,
+   165,
+   167,
+   202
+  ],
+  "eleitores": 3757
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL ERNESTO DORNELLES",
+  "endereco": "RUA DUQUE DE CAXIAS, 385, CENTRO HISTÓRICO",
+  "secoes": [
+   31,
+   61,
+   90,
+   125,
+   146,
+   171,
+   209
+  ],
+  "eleitores": 2276
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL EUCLIDES DA CUNHA",
+  "endereco": "RUA BARÃO DO CERRO LARGO, 385, MENINO DEUS",
+  "secoes": [
+   306,
+   307,
+   308,
+   309,
+   310,
+   311
+  ],
+  "eleitores": 2004
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL INFANTE DOM HENRIQUE",
+  "endereco": "RUA GONÇALVES DIAS, 1022, MENINO DEUS",
+  "secoes": [
+   40,
+   70,
+   95,
+   124,
+   168,
+   203,
+   225,
+   245,
+   257,
+   262
+  ],
+  "eleitores": 3750
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL INÁCIO MONTANHA",
+  "endereco": "AVENIDA JOÃO PESSOA, 2125, SANTANA",
+  "secoes": [
+   289,
+   290,
+   291,
+   292,
+   293
+  ],
+  "eleitores": 1650
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL MANÉ GARRINCHA",
+  "endereco": "AVENIDA ÉRICO VERÍSSIMO, 1255, MENINO DEUS",
+  "secoes": [
+   100,
+   122,
+   164,
+   199,
+   236
+  ],
+  "eleitores": 1448
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL MARIA JOSÉ MABILDE - I.PINTADA",
+  "endereco": "AVENIDA PRESIDENTE VARGAS,129 - ILHA DA PINTADA, ILHA DA PINTADA",
+  "secoes": [
+   54,
+   232,
+   259
+  ],
+  "eleitores": 865
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL OSCAR SCHMITT - I.DAS FLORES",
+  "endereco": "RUA DO PESCADOR, 690 - ILHA DAS FLORES, ILHA DAS FLORES",
+  "secoes": [
+   211,
+   220,
+   332
+  ],
+  "eleitores": 668
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL PAULA SOARES",
+  "endereco": "RUA GENERAL AUTO, 68, CENTRO HISTÓRICO",
+  "secoes": [
+   33,
+   42,
+   77,
+   80,
+   129,
+   137,
+   183,
+   188
+  ],
+  "eleitores": 2745
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL PRESIDENTE ROOSEVELT",
+  "endereco": "RUA BOTAFOGO, 396, MENINO DEUS",
+  "secoes": [
+   5,
+   32,
+   66,
+   81,
+   83,
+   108,
+   128,
+   132,
+   170,
+   193,
+   198,
+   218,
+   223,
+   233,
+   317
+  ],
+  "eleitores": 5139
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL PROF. OLINTHO DE OLIVEIRA",
+  "endereco": "RUA DA REPÚBLICA, 635, CIDADE BAIXA",
+  "secoes": [
+   26,
+   82,
+   119,
+   172,
+   206,
+   222,
+   229,
+   255
+  ],
+  "eleitores": 2685
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL PROTÁSIO ALVES",
+  "endereco": "AVENIDA IPIRANGA, 1090, AZENHA",
+  "secoes": [
+   8,
+   73,
+   107,
+   149,
+   196,
+   217,
+   228,
+   261
+  ],
+  "eleitores": 2688
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL RIO DE JANEIRO",
+  "endereco": "RUA GENERAL LIMA E SILVA, 400,",
+  "secoes": [
+   20,
+   62,
+   91,
+   114,
+   147,
+   178,
+   205,
+   242,
+   265,
+   321
+  ],
+  "eleitores": 3307
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA ESTADUAL WILLIAM RICHARD SCHISLER",
+  "endereco": "RUA VISCONDE DO HERVAL, 970, MENINO DEUS",
+  "secoes": [
+   246,
+   251,
+   258,
+   316
+  ],
+  "eleitores": 1447
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA LA SALLE PÃO DOS POBRES",
+  "endereco": "RUA DA REPÚBLICA, 801, CIDADE BAIXA",
+  "secoes": [
+   21,
+   30,
+   39,
+   65,
+   75,
+   110,
+   117
+  ],
+  "eleitores": 2420
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA MUNICIPAL LEOPOLDA BARNEWITZ",
+  "endereco": "RUA JOÃO ALFREDO, 443, CIDADE BAIXA",
+  "secoes": [
+   2,
+   76,
+   115,
+   158,
+   195,
+   248
+  ],
+  "eleitores": 1794
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA MÃE ADMIRÁVEL",
+  "endereco": "RUA BARONESA DO GRAVATAÍ, 165, CIDADE BAIXA",
+  "secoes": [
+   120,
+   144,
+   174,
+   184,
+   210,
+   216,
+   256
+  ],
+  "eleitores": 2240
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA SÃO FRANCISCO - MENINO DEUS",
+  "endereco": "PRAÇA MENINO DEUS, 77, MENINO DEUS",
+  "secoes": [
+   294,
+   295,
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305
+  ],
+  "eleitores": 3680
+ },
+ {
+  "zona": 1,
+  "local": "ESCOLA TECNICA ESTADUAL PAROBÉ",
+  "endereco": "AVENIDA LOUREIRO DA SILVA, 945, CENTRO HISTÓRICO",
+  "secoes": [
+   28,
+   37,
+   52,
+   116,
+   153,
+   160
+  ],
+  "eleitores": 2075
+ },
+ {
+  "zona": 1,
+  "local": "ESTÁCIO / FARGS - FACULDADES RIO- GRANDENSES",
+  "endereco": "RUA MARECHAL FLORIANO PEIXOTO, 626, CENTRO HISTÓRICO",
+  "secoes": [
+   10,
+   24,
+   44,
+   64,
+   94,
+   97,
+   227,
+   263
+  ],
+  "eleitores": 2257
+ },
+ {
+  "zona": 1,
+  "local": "FACULDADE DE CIÊNCIAS ECONÔMICAS - UFRGS",
+  "endereco": "AVENIDA JOÃO PESSOA, 52, CENTRO HISTÓRICO",
+  "secoes": [
+   29,
+   98,
+   177,
+   238,
+   239
+  ],
+  "eleitores": 1983
+ },
+ {
+  "zona": 1,
+  "local": "FACULDADE DE DIREITO - UFRGS",
+  "endereco": "AVENIDA JOÃO PESSOA, 80, CENTRO HISTÓRICO",
+  "secoes": [
+   15,
+   103,
+   187,
+   215,
+   237
+  ],
+  "eleitores": 1740
+ },
+ {
+  "zona": 1,
+  "local": "FORO TRABALHISTA DE PORTO ALEGRE",
+  "endereco": "AVENIDA PRAIA DE BELAS, 1432, PRAIA DE BELAS",
+  "secoes": [
+   19,
+   34,
+   48,
+   72,
+   106,
+   176,
+   219,
+   314
+  ],
+  "eleitores": 2254
+ },
+ {
+  "zona": 1,
+  "local": "INSS",
+  "endereco": "RUA JERÔNIMO COELHO, 127, CENTRO HISTÓRICO",
+  "secoes": [
+   41,
+   181,
+   224
+  ],
+  "eleitores": 707
+ },
+ {
+  "zona": 1,
+  "local": "INSTITUTO DA PROVIDÊNCIA",
+  "endereco": "RUA DEMÉTRIO RIBEIRO, 594, CENTRO HISTÓRICO",
+  "secoes": [
+   109,
+   151,
+   194
+  ],
+  "eleitores": 958
+ },
+ {
+  "zona": 1,
+  "local": "INSTITUTO DE ARTES DA UFRGS",
+  "endereco": "RUA SENHOR DOS PASSOS, 248, CENTRO HISTÓRICO",
+  "secoes": [
+   74,
+   88,
+   127,
+   130,
+   190
+  ],
+  "eleitores": 1197
+ },
+ {
+  "zona": 1,
+  "local": "INSTITUTO IMACULADO CORAÇÃO DE MARIA",
+  "endereco": "RUA RIACHUELO, 508, CENTRO HISTÓRICO",
+  "secoes": [
+   25,
+   78,
+   131,
+   250
+  ],
+  "eleitores": 1253
+ },
+ {
+  "zona": 1,
+  "local": "PALÁCIO DO MINISTÉRIO PÚBLICO - FORTE APACHE",
+  "endereco": "RUA JERÔNIMO COELHO, 23, CENTRO HISTÓRICO",
+  "secoes": [
+   17,
+   69,
+   105,
+   139,
+   173,
+   312
+  ],
+  "eleitores": 1142
+ },
+ {
+  "zona": 1,
+  "local": "REFEITÓRIO - CENTRO DE EVENTOS BARROS CASSAL (SEÇÕES SESC CENTRO)",
+  "endereco": "RUA BARROS CASSAL, 220B, FLORESTA",
+  "secoes": [
+   11,
+   18,
+   45,
+   143,
+   182
+  ],
+  "eleitores": 1584
+ },
+ {
+  "zona": 1,
+  "local": "SALÃO PAROQUIAL DA IGREJA NOSSA SENHORA DA POMPÉIA",
+  "endereco": "RUA BARROS CASSAL, 220, FLORESTA",
+  "secoes": [
+   283,
+   284,
+   285,
+   286,
+   287,
+   288
+  ],
+  "eleitores": 1224
+ },
+ {
+  "zona": 1,
+  "local": "SECRETARIA DA FAZENDA",
+  "endereco": "RUA SIQUEIRA CAMPOS, 1044, CENTRO HISTÓRICO",
+  "secoes": [
+   47,
+   49,
+   141,
+   212,
+   213,
+   230
+  ],
+  "eleitores": 1179
+ },
+ {
+  "zona": 1,
+  "local": "SENAC",
+  "endereco": "RUA CORONEL GENUÍNO, 130, CENTRO HISTÓRICO",
+  "secoes": [
+   104,
+   133,
+   154,
+   157,
+   185,
+   189,
+   201,
+   319
+  ],
+  "eleitores": 2342
+ },
+ {
+  "zona": 1,
+  "local": "SENAC - TECH",
+  "endereco": "AVENIDA VENANCIO AIRES, 93, CIDADE BAIXA",
+  "secoes": [
+   1,
+   59,
+   85,
+   111,
+   135,
+   161,
+   191
+  ],
+  "eleitores": 2305
+ },
+ {
+  "zona": 1,
+  "local": "TRIBUNAL DE CONTAS DO ESTADO",
+  "endereco": "RUA SETE DE SETEMBRO, 388, CENTRO HISTÓRICO",
+  "secoes": [
+   43,
+   46,
+   126,
+   180
+  ],
+  "eleitores": 1147
+ },
+ {
+  "zona": 1,
+  "local": "TRIBUNAL DE JUSTICA - PALÁCIO DA JUSTIÇA",
+  "endereco": "PRAÇA DA MATRIZ, 55, CENTRO HISTÓRICO",
+  "secoes": [
+   13,
+   35,
+   86,
+   102,
+   142,
+   166,
+   197,
+   313
+  ],
+  "eleitores": 2147
+ },
+ {
+  "zona": 1,
+  "local": "TRT - TRIBUNAL REGIONAL DO TRABALHO",
+  "endereco": "AVENIDA PRAIA DE BELAS, 1100, MENINO DEUS",
+  "secoes": [
+   113,
+   138,
+   169,
+   243,
+   249,
+   253,
+   260,
+   315
+  ],
+  "eleitores": 2929
+ },
+ {
+  "zona": 1,
+  "local": "UFCSPA (SEÇÕES MAL. FLORIANO PEIXOTO)",
+  "endereco": "RUA SARMENTO LEITE, 245, CENTRO HISTÓRICO",
+  "secoes": [
+   267,
+   268,
+   269,
+   270,
+   272,
+   273,
+   274,
+   275,
+   276
+  ],
+  "eleitores": 2775
+ },
+ {
+  "zona": 1,
+  "local": "UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE",
+  "endereco": "RUA SARMENTO LEITE, 245, CENTRO HISTÓRICO",
+  "secoes": [
+   38,
+   51,
+   152,
+   159,
+   241
+  ],
+  "eleitores": 1149
+ },
+ {
+  "zona": 2,
+  "local": "ASSOCIACAO LEOPOLDINA JUVENIL",
+  "endereco": "RUA MARQUES DO HERVAL, 280, MOINHOS DE VENTO",
+  "secoes": [
+   15,
+   16,
+   78,
+   108,
+   109,
+   180,
+   226,
+   232,
+   255,
+   367
+  ],
+  "eleitores": 4179
+ },
+ {
+  "zona": 2,
+  "local": "CENTRO MUNICIPAL DE EDUCAÇÃO TRABALHADORES - PAULO FREIRE",
+  "endereco": "RUA SANTA TERESINHA, 572, SANTA CECILIA",
+  "secoes": [
+   31,
+   54,
+   64,
+   88,
+   99,
+   126,
+   153,
+   164,
+   191,
+   222,
+   228,
+   248
+  ],
+  "eleitores": 3427
+ },
+ {
+  "zona": 2,
+  "local": "CIRCULO SOCIAL ISRAELITA",
+  "endereco": "RUA JOAO TELES, 508, BOM FIM",
+  "secoes": [
+   27,
+   68,
+   80,
+   110,
+   118,
+   230,
+   242,
+   256
+  ],
+  "eleitores": 2939
+ },
+ {
+  "zona": 2,
+  "local": "CLUBE CAIXEIROS VIAJANTES",
+  "endereco": "RUA DONA LAURA, 646, RIO BRANCO",
+  "secoes": [
+   293,
+   294,
+   295,
+   296,
+   297,
+   298,
+   390,
+   393
+  ],
+  "eleitores": 2794
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO BATISTA",
+  "endereco": "AV. CRISTOVAO COLOMBO, 1098, FLORESTA",
+  "secoes": [
+   22,
+   42,
+   95,
+   120,
+   151,
+   207,
+   218,
+   235,
+   368
+  ],
+  "eleitores": 3634
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO ESTADUAL JULIO DE CASTILHOS",
+  "endereco": "AV. PIRATINI, 76, SANTANA",
+  "secoes": [
+   4,
+   82,
+   94,
+   114,
+   128,
+   129,
+   144,
+   204,
+   246,
+   247,
+   252,
+   257,
+   259,
+   369,
+   386
+  ],
+  "eleitores": 6003
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO ISRAELITA BRASILEIRO",
+  "endereco": "AV. PROTASIO ALVES, 943, SANTA CECILIA",
+  "secoes": [
+   38,
+   40,
+   71,
+   90,
+   116,
+   117,
+   139,
+   253,
+   364,
+   370
+  ],
+  "eleitores": 3729
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO LEONARDO DA VINCI - ALFA",
+  "endereco": "RUA CEL. JOAQUIM PEDRO SALGADO, 80, RIO BRANCO",
+  "secoes": [
+   49,
+   86,
+   138,
+   193,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305,
+   306
+  ],
+  "eleitores": 4421
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO MARISTA NOSSA SENHORA DO ROSARIO",
+  "endereco": "PRACA DOM SEBASTIAO, 02, INDEPENDÊNCIA",
+  "secoes": [
+   18,
+   24,
+   59,
+   63,
+   73,
+   96,
+   102,
+   133,
+   146,
+   169,
+   173,
+   199,
+   208,
+   211,
+   227,
+   237,
+   238,
+   251,
+   254,
+   371,
+   379
+  ],
+  "eleitores": 6395
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO MARISTA SAO PEDRO",
+  "endereco": "RUA ALVARO CHAVES, 601, FLORESTA",
+  "secoes": [
+   41,
+   100,
+   159,
+   225,
+   234,
+   378
+  ],
+  "eleitores": 2053
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO NOSSA SENHORA DO BOM CONSELHO",
+  "endereco": "RUA RAMIRO BARCELOS, 996, INDEPENDÊNCIA",
+  "secoes": [
+   2,
+   9,
+   10,
+   29,
+   39,
+   72,
+   81,
+   91,
+   101,
+   103,
+   105,
+   111,
+   119,
+   127,
+   131,
+   152,
+   155,
+   160,
+   170,
+   171,
+   174,
+   178,
+   190,
+   196,
+   205,
+   240,
+   250
+  ],
+  "eleitores": 9559
+ },
+ {
+  "zona": 2,
+  "local": "COLEGIO VICENTINO SANTA CECILIA",
+  "endereco": "RUA FELIPE DE OLIVEIRA, 448, SANTA CECILIA",
+  "secoes": [
+   167,
+   182,
+   201,
+   220,
+   244,
+   384,
+   395
+  ],
+  "eleitores": 2469
+ },
+ {
+  "zona": 2,
+  "local": "COLÉGIO CONCÓRDIA",
+  "endereco": "AV. PRESIDENTE FRANKLIN ROOSEVELT, 770, SÃO GERALDO",
+  "secoes": [
+   14,
+   34,
+   61,
+   62,
+   134,
+   200
+  ],
+  "eleitores": 2179
+ },
+ {
+  "zona": 2,
+  "local": "COLÉGIO JOÃO PAULO I",
+  "endereco": "RUA SÃO FRANCISCO DA CALIFÓRNIA, 90, HIGIENOPOLIS",
+  "secoes": [
+   282,
+   283,
+   284,
+   285,
+   286
+  ],
+  "eleitores": 2015
+ },
+ {
+  "zona": 2,
+  "local": "COLÉGIO METODISTA AMERICANO BILINGUE",
+  "endereco": "RUA CABRAL, 521, RIO BRANCO",
+  "secoes": [
+   1,
+   52,
+   84,
+   106,
+   132,
+   176,
+   184,
+   229,
+   258,
+   380,
+   383
+  ],
+  "eleitores": 4025
+ },
+ {
+  "zona": 2,
+  "local": "CONSELHO REGIONAL DE QUÍMICA",
+  "endereco": "AV. ITAQUI, 45, PETRÓPOLIS",
+  "secoes": [
+   387
+  ],
+  "eleitores": 397
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA DE APLICACAO DINAH NERI PEREIRA",
+  "endereco": "AV. JOSE BONIFACIO, 497, BOM FIM",
+  "secoes": [
+   21,
+   50,
+   93,
+   125,
+   145,
+   202,
+   243,
+   372
+  ],
+  "eleitores": 2397
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL APELES PORTO ALEGRE",
+  "endereco": "RUA SAO MANOEL, 1981, SANTANA",
+  "secoes": [
+   332,
+   333,
+   334,
+   335,
+   336,
+   337,
+   338,
+   339,
+   340,
+   341,
+   342,
+   363,
+   373
+  ],
+  "eleitores": 5205
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL BRANCA DIVA PEREIRA DE SOUZA",
+  "endereco": "AV. SAO PAULO, 1020, FLORESTA",
+  "secoes": [
+   11,
+   13,
+   33,
+   137,
+   149
+  ],
+  "eleitores": 1393
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL BRASÍLIA",
+  "endereco": "RUA DONA MARGARIDA, 1199, NAVEGANTES",
+  "secoes": [
+   273,
+   274,
+   275,
+   276,
+   277,
+   278,
+   279,
+   280,
+   281
+  ],
+  "eleitores": 2125
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL CAMILA FURTADO ALVES",
+  "endereco": "RUA ALMIRANTE BARROSO, 79, FLORESTA",
+  "secoes": [
+   44,
+   175
+  ],
+  "eleitores": 597
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL CANDIDO JOSE DE GODOI",
+  "endereco": "AV. FRANCA, 400, NAVEGANTES",
+  "secoes": [
+   260,
+   261,
+   262
+  ],
+  "eleitores": 995
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL DALTRO FILHO",
+  "endereco": "AV. AMÉRICA, 145, AUXILIADORA",
+  "secoes": [
+   287,
+   288,
+   289,
+   290,
+   291,
+   292,
+   377
+  ],
+  "eleitores": 2793
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL ENS FUNDAMENTAL MEDIANEIRA",
+  "endereco": "RUA GENERAL GOMES CARNEIRO, 45, MEDIANEIRA",
+  "secoes": [
+   343,
+   344,
+   345,
+   346,
+   347,
+   348,
+   349,
+   350,
+   351,
+   352,
+   353,
+   354,
+   366
+  ],
+  "eleitores": 4268
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL ENSINO MEDIO ANNE FRANK",
+  "endereco": "RUA CAUDURO, 238, BOM FIM",
+  "secoes": [
+   7,
+   37,
+   51,
+   69,
+   115,
+   154,
+   187,
+   189,
+   194,
+   195,
+   203
+  ],
+  "eleitores": 3805
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL GABRIELA MISTRAL",
+  "endereco": "RUA CARLOS PESSOA DE BRUM, 150, SANTO ANTONIO",
+  "secoes": [
+   324,
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331
+  ],
+  "eleitores": 2534
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL ILDEFONSO GOMES",
+  "endereco": "RUA LUIZ MANOEL, 02, SANTANA",
+  "secoes": [
+   142,
+   163,
+   172,
+   221
+  ],
+  "eleitores": 1360
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL LUCIANA DE ABREU",
+  "endereco": "RUA JACINTO OSORIO, 60, SANTANA",
+  "secoes": [
+   30,
+   85,
+   140,
+   179,
+   224
+  ],
+  "eleitores": 1978
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL OLEGARIO MARIANO",
+  "endereco": "RUA OLINDA, 99, FLORESTA",
+  "secoes": [
+   28,
+   32,
+   104,
+   112,
+   156,
+   177,
+   233
+  ],
+  "eleitores": 1899
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL SAO FRANCISCO DE ASSIS",
+  "endereco": "AV. PRINCESA ISABEL, 1160, SANTANA",
+  "secoes": [
+   36,
+   48,
+   122,
+   166,
+   223,
+   245
+  ],
+  "eleitores": 2216
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL SOUZA LOBO",
+  "endereco": "AV. BAHIA, 948, SÃO GERALDO",
+  "secoes": [
+   17,
+   19,
+   23,
+   35,
+   46,
+   161,
+   168,
+   186,
+   209
+  ],
+  "eleitores": 1923
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA ESTADUAL URUGUAI",
+  "endereco": "TRAVESSA ANGUSTURA, S/N, MOINHOS DE VENTO",
+  "secoes": [
+   5,
+   43,
+   74,
+   75,
+   97,
+   124,
+   148,
+   188,
+   219,
+   241,
+   374
+  ],
+  "eleitores": 3903
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA NORMAL 1 DE MAIO",
+  "endereco": "AV. PRESIDENTE FRANKLIN ROOSEVELT, 149, NAVEGANTES",
+  "secoes": [
+   268,
+   269,
+   270,
+   271,
+   272
+  ],
+  "eleitores": 1289
+ },
+ {
+  "zona": 2,
+  "local": "ESCOLA TECNICA ESTADUAL IRMAO PEDRO",
+  "endereco": "RUA FELIX DA CUNHA, 515, FLORESTA",
+  "secoes": [
+   55,
+   89,
+   135,
+   143,
+   185,
+   236,
+   361
+  ],
+  "eleitores": 2206
+ },
+ {
+  "zona": 2,
+  "local": "GREMIO NAUTICO UNIAO",
+  "endereco": "RUA QUINTINO BOCAIUVA, 500, MOINHOS DE VENTO",
+  "secoes": [
+   58,
+   87,
+   150,
+   217,
+   385,
+   394
+  ],
+  "eleitores": 2249
+ },
+ {
+  "zona": 2,
+  "local": "IMED / ATITUS",
+  "endereco": "RUA DONA LAURA, 1020, MONT SERRAT",
+  "secoes": [
+   239,
+   360,
+   365,
+   375,
+   388,
+   392
+  ],
+  "eleitores": 1997
+ },
+ {
+  "zona": 2,
+  "local": "INSS - UNIDADE REABILITACAO PROFISSIONAL",
+  "endereco": "AV. BENTO GONCALVES, 867, SANTO ANTONIO",
+  "secoes": [
+   315,
+   316,
+   317,
+   318,
+   319,
+   320,
+   321,
+   322,
+   323
+  ],
+  "eleitores": 2824
+ },
+ {
+  "zona": 2,
+  "local": "INSTITUTO ESTADUAL DE EDUCACAO GENERAL FLORES DA CUNHA",
+  "endereco": "AV. OSVALDO ARANHA, 527, BOM FIM",
+  "secoes": [
+   389,
+   391,
+   396
+  ],
+  "eleitores": 1027
+ },
+ {
+  "zona": 2,
+  "local": "INSTITUTO ESTADUAL RIO BRANCO",
+  "endereco": "AV. PROTASIO ALVES, 999, SANTA CECILIA",
+  "secoes": [
+   8,
+   83,
+   121,
+   162,
+   206,
+   231,
+   249,
+   381,
+   397
+  ],
+  "eleitores": 3458
+ },
+ {
+  "zona": 2,
+  "local": "INSTITUTO SÃO FRANCISCO SANTA FAMILIA",
+  "endereco": "AV. PARA, 833, SÃO GERALDO",
+  "secoes": [
+   12,
+   25,
+   123,
+   157,
+   213
+  ],
+  "eleitores": 1610
+ },
+ {
+  "zona": 2,
+  "local": "NÚCLEO DE EDUCAÇÃO DARCY VARGAS",
+  "endereco": "AV. JOAO PESSOA, 1070, FARROUPILHA",
+  "secoes": [
+   47,
+   92,
+   141,
+   192
+  ],
+  "eleitores": 1104
+ },
+ {
+  "zona": 2,
+  "local": "SALAO PAROQUIAL IGREJA CORAÇÃO DE JESUS",
+  "endereco": "RUA CORONEL MANOEL PY, 82, HIGIENOPOLIS",
+  "secoes": [
+   355,
+   356,
+   357,
+   358,
+   362
+  ],
+  "eleitores": 1406
+ },
+ {
+  "zona": 2,
+  "local": "SALÃO PAROQUIAL IGREJA SÃO SEBASTIÃO",
+  "endereco": "AV. CAÇAPAVA, 251, PETRÓPOLIS",
+  "secoes": [
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   359,
+   376
+  ],
+  "eleitores": 2987
+ },
+ {
+  "zona": 2,
+  "local": "SENAI VISCONDE DE MAUÁ",
+  "endereco": "RUA COMENDADOR TAVARES, 436-582, NAVEGANTES",
+  "secoes": [
+   263,
+   264,
+   265,
+   266
+  ],
+  "eleitores": 712
+ },
+ {
+  "zona": 111,
+  "local": "ANCHIETA COLEGIO",
+  "endereco": "AVENIDA NILO PEÇANHA N 1521, TRÊS FIGUEIRAS",
+  "secoes": [
+   20,
+   26,
+   71,
+   86,
+   113,
+   137,
+   149,
+   160,
+   193,
+   194,
+   198,
+   226,
+   231,
+   233,
+   244,
+   247,
+   258,
+   348
+  ],
+  "eleitores": 6855
+ },
+ {
+  "zona": 111,
+  "local": "BAHIA - E.E.E.F.",
+  "endereco": "RUA ANGELITO ASMUZ AIQUEL,125, BOA VISTA",
+  "secoes": [
+   25,
+   76,
+   114,
+   219,
+   269,
+   286,
+   341
+  ],
+  "eleitores": 2746
+ },
+ {
+  "zona": 111,
+  "local": "CARLOS BARBOSA GONCALVES - ESCOLA ESTADUAL",
+  "endereco": "TRAVESSA HEIZELMANN N 250, NAVEGANTES",
+  "secoes": [
+   33,
+   43,
+   124,
+   125,
+   199,
+   215
+  ],
+  "eleitores": 2083
+ },
+ {
+  "zona": 111,
+  "local": "CARLOS FAGUNDES DE MELLO UNIDADE ESTADUAL DE ENSINO",
+  "endereco": "RUA D QUADRA 28, VILA FARRAPOS",
+  "secoes": [
+   11,
+   56,
+   98,
+   115,
+   140,
+   158,
+   176,
+   189,
+   208,
+   248
+  ],
+  "eleitores": 3725
+ },
+ {
+  "zona": 111,
+  "local": "CARLOS RODRIGUES DA SILVA - ESCOLA ESTADUAL",
+  "endereco": "GUARACAPÁ, 33, SANTA MARIA GORETTI",
+  "secoes": [
+   27,
+   38,
+   63,
+   99,
+   161,
+   171,
+   205
+  ],
+  "eleitores": 2025
+ },
+ {
+  "zona": 111,
+  "local": "CASA DO PEQUENO OPERARIO-DOM BOSCO",
+  "endereco": "EDUARDO CHARTTIER N 360, PASSO D'AREIA",
+  "secoes": [
+   9,
+   36,
+   40,
+   66,
+   72,
+   106,
+   109,
+   116,
+   146,
+   164,
+   174,
+   192,
+   207,
+   260,
+   340
+  ],
+  "eleitores": 5899
+ },
+ {
+  "zona": 111,
+  "local": "CEASA - PORTO ALEGRE",
+  "endereco": "AV. FERNANDO FERRARI, 1001,",
+  "secoes": [
+   48,
+   167,
+   236
+  ],
+  "eleitores": 669
+ },
+ {
+  "zona": 111,
+  "local": "COL. ROMANO II - UNID. SÃO MATEUS (ANTIGO ESPIRITO SANTO)",
+  "endereco": "RUA BORTOLO BARBIERI, 90, JARDIM SÃO PEDRO",
+  "secoes": [
+   316,
+   317,
+   318,
+   319,
+   320
+  ],
+  "eleitores": 1953
+ },
+ {
+  "zona": 111,
+  "local": "COLÉGIO ESTADUAL DOM JOÃO BECKER",
+  "endereco": "NOVA PRATA N 185, VILA DOS INDUSTRIARIOS",
+  "secoes": [
+   29,
+   105,
+   183,
+   274
+  ],
+  "eleitores": 1487
+ },
+ {
+  "zona": 111,
+  "local": "COLÉGIO FARROUPILHA",
+  "endereco": "RUA CARLOS HUBER, 425, TRÊS FIGUEIRAS",
+  "secoes": [
+   290,
+   291,
+   292,
+   293,
+   294,
+   295,
+   350
+  ],
+  "eleitores": 2700
+ },
+ {
+  "zona": 111,
+  "local": "DANILO ANTONIO ZAFFARI - E.E.E.F.",
+  "endereco": "RUA MARCOS KRUCHIN, 291, VILA FARRAPOS",
+  "secoes": [
+   254,
+   267,
+   277,
+   342,
+   345,
+   351
+  ],
+  "eleitores": 2243
+ },
+ {
+  "zona": 111,
+  "local": "ESC. ESTADUAL DE ENSINO FUND. AURÉLIO REIS",
+  "endereco": "RUA MONTE ALEGRE, 119, JARDIM FLORESTA",
+  "secoes": [
+   321,
+   322,
+   323,
+   324
+  ],
+  "eleitores": 1284
+ },
+ {
+  "zona": 111,
+  "local": "ESC. ESTADUAL DE ENSINO FUND. E MÉDIO MONS. LEOPOLDO HOFF",
+  "endereco": "RUA MOEMA, 255, CHÁCARA DAS PEDRAS",
+  "secoes": [
+   296,
+   297,
+   298,
+   299,
+   300,
+   301,
+   302,
+   303,
+   304,
+   305
+  ],
+  "eleitores": 3465
+ },
+ {
+  "zona": 111,
+  "local": "ESC. ESTADUAL DE ENSINO FUND. E MÉDIO SARMENTO LEITE",
+  "endereco": "RUA EUGÊNIO DU PASQUIER, 115, VILA FLORESTA",
+  "secoes": [
+   325,
+   326,
+   327,
+   328,
+   329,
+   330,
+   331,
+   332,
+   333,
+   334,
+   335,
+   336
+  ],
+  "eleitores": 4204
+ },
+ {
+  "zona": 111,
+  "local": "ESCOLA DE ENSINO FUNDAMENTAL PRUDENTE DE MORAIS",
+  "endereco": "RUA PRUDENTE DE MORAIS, 57, CHÁCARA DAS PEDRAS",
+  "secoes": [
+   306,
+   307,
+   308,
+   309,
+   310,
+   311,
+   312,
+   313,
+   314,
+   315
+  ],
+  "eleitores": 3608
+ },
+ {
+  "zona": 111,
+  "local": "ESCOLA ESTADUAL DE 1 GRAU JOSE GARIBALDI",
+  "endereco": "RUA CAIO BRANDAO DE MELO, S/N, HUMAITÁ",
+  "secoes": [
+   30,
+   65,
+   95,
+   217,
+   218,
+   234,
+   238,
+   255,
+   266,
+   346
+  ],
+  "eleitores": 3698
+ },
+ {
+  "zona": 111,
+  "local": "ESCOLA MUNIC. DE 1º GRAU VEREADOR ANTÔNIO GIUDICE",
+  "endereco": "RUA DR CAIO BRANDÃO DE MELO S/N, HUMAITÁ",
+  "secoes": [
+   10,
+   15,
+   82,
+   120,
+   139,
+   195,
+   196,
+   228,
+   237,
+   270,
+   283,
+   338,
+   343,
+   344,
+   352
+  ],
+  "eleitores": 5591
+ },
+ {
+  "zona": 111,
+  "local": "FLORINDA TUBINO SAMPAIO - ESCOLA ESTADUAL",
+  "endereco": "AVENIDA MONTENEGRO N 269, PETRÓPOLIS",
+  "secoes": [
+   175,
+   180,
+   202,
+   206,
+   227,
+   240,
+   246,
+   251,
+   287
+  ],
+  "eleitores": 3146
+ },
+ {
+  "zona": 111,
+  "local": "GONCALVES DIAS - ESCOLA ESTADUAL",
+  "endereco": "CANDIOTA 145, PASSO D'AREIA",
+  "secoes": [
+   28,
+   41,
+   73,
+   89,
+   128,
+   166,
+   182,
+   220,
+   221,
+   276
+  ],
+  "eleitores": 3583
+ },
+ {
+  "zona": 111,
+  "local": "IMPERATRIZ DONA LEOPOLDINA - E.E.E.F.",
+  "endereco": "AV ITAJAI, 241, PETRÓPOLIS",
+  "secoes": [
+   253,
+   268,
+   272,
+   278,
+   284,
+   339
+  ],
+  "eleitores": 1832
+ },
+ {
+  "zona": 111,
+  "local": "INSTITUTO PIRATINI",
+  "endereco": "EUDORO BERLINK N 632, AUXILIADORA",
+  "secoes": [
+   14,
+   16,
+   21,
+   57,
+   61,
+   81,
+   84,
+   93,
+   103,
+   123,
+   242,
+   249,
+   256,
+   264
+  ],
+  "eleitores": 4879
+ },
+ {
+  "zona": 111,
+  "local": "INSTITUTO SÃO FRANCISCO - PALLOTTI",
+  "endereco": "TUPI N 212, PASSO D'AREIA",
+  "secoes": [
+   37,
+   42,
+   45,
+   68,
+   83,
+   108,
+   133,
+   148,
+   153,
+   184,
+   191,
+   257
+  ],
+  "eleitores": 4444
+ },
+ {
+  "zona": 111,
+  "local": "LIONS CLUB P.A. FARRAPOS ESC EST DE 1 GRAU",
+  "endereco": "DONA TEODORA N 1156, NAVEGANTES",
+  "secoes": [
+   19,
+   39,
+   151,
+   181
+  ],
+  "eleitores": 1482
+ },
+ {
+  "zona": 111,
+  "local": "MARIA TEREZA DA SILVEIRA - ESCOLA ESTADUAL",
+  "endereco": "RUA FURRIEL LUIZ ANTONIO VARGAS , 135, BELA VISTA",
+  "secoes": [
+   112,
+   145,
+   186,
+   280,
+   288
+  ],
+  "eleitores": 1769
+ },
+ {
+  "zona": 111,
+  "local": "N.S.DO MONT'SERRAT SALAO PAROQUIAL DA IGREJA",
+  "endereco": "ANITA GARIBALDI N 1121, MONT SERRAT",
+  "secoes": [
+   46,
+   78,
+   354
+  ],
+  "eleitores": 1080
+ },
+ {
+  "zona": 111,
+  "local": "NOSSA SENHORA DO CENACULO - E.E.F.",
+  "endereco": "VIELA SAO BRAZ , 17, PASSO D'AREIA",
+  "secoes": [
+   13,
+   34,
+   69,
+   122,
+   147,
+   154,
+   197
+  ],
+  "eleitores": 2479
+ },
+ {
+  "zona": 111,
+  "local": "PAN AMERICAN SCHOOL (ANTIGO COLÉGIO VERA CRUZ)",
+  "endereco": "JOAO OBINO N 110, PETRÓPOLIS",
+  "secoes": [
+   4,
+   8,
+   74,
+   80,
+   104,
+   119,
+   135,
+   169,
+   173,
+   209,
+   211,
+   230
+  ],
+  "eleitores": 4775
+ },
+ {
+  "zona": 111,
+  "local": "PASTOR DOHMS GINASIO EVANGELICO",
+  "endereco": "AMÉRICO VESPÚCIO, 483, HIGIENOPOLIS",
+  "secoes": [
+   17,
+   64,
+   96,
+   130,
+   152,
+   185,
+   224,
+   235,
+   245,
+   250,
+   282,
+   337,
+   347
+  ],
+  "eleitores": 5149
+ },
+ {
+  "zona": 111,
+  "local": "RECANTO DA ALEGRIA E.E.E (ANT. POSTAO)",
+  "endereco": "R. VALENTIM VICENTINI, 225, PASSO D'AREIA",
+  "secoes": [
+   7,
+   23,
+   97,
+   162,
+   222,
+   252
+  ],
+  "eleitores": 1638
+ },
+ {
+  "zona": 111,
+  "local": "SANTA LUIZA OBRA SOCIAL",
+  "endereco": "RUA D N 30, VILA FARRAPOS",
+  "secoes": [
+   6,
+   58,
+   102,
+   165,
+   201,
+   353
+  ],
+  "eleitores": 1778
+ },
+ {
+  "zona": 111,
+  "local": "SAO JOAO COLEGIO",
+  "endereco": "HONORIO SILVEIRA DIAS N 645, HIGIENOPOLIS",
+  "secoes": [
+   1,
+   3,
+   60,
+   88,
+   126,
+   157,
+   190,
+   223,
+   239,
+   243
+  ],
+  "eleitores": 3781
+ },
+ {
+  "zona": 111,
+  "local": "SECRETARIA MUNICIPAL DO MEIO AMBIENTE",
+  "endereco": "AVENIDA CARLOS GOMES N 2120, TRÊS FIGUEIRAS",
+  "secoes": [
+   2,
+   18,
+   55,
+   75,
+   79,
+   117,
+   172,
+   214,
+   289
+  ],
+  "eleitores": 2664
+ },
+ {
+  "zona": 111,
+  "local": "SOCIEDADE GINASTICA PORTO ALEGRE",
+  "endereco": "BARAO DE COTEGIPE N 415, HIGIENOPOLIS",
+  "secoes": [
+   12,
+   77,
+   121,
+   170,
+   210,
+   262,
+   273,
+   285
+  ],
+  "eleitores": 3081
+ },
+ {
+  "zona": 111,
+  "local": "VISCONDE DE PELOTAS - E.E. DE 1 GRAU",
+  "endereco": "RUA ARTUR ROCHA, 200, AUXILIADORA",
+  "secoes": [
+   127,
+   132,
+   163,
+   168,
+   177,
+   188,
+   204,
+   225,
+   229,
+   241,
+   263,
+   275
+  ],
+  "eleitores": 3393
+ },
+ {
+  "zona": 111,
+  "local": "VOTO EM TRÂNSITO - AEROPORTO SALGADO FILHO",
+  "endereco": "SEVERO DULLIUS, 90010, ANCHIETA",
+  "secoes": [
+   349
+  ],
+  "eleitores": 0
+ },
+ {
+  "zona": 112,
+  "local": "CLUBE COMERCIAL SARANDI",
+  "endereco": "AV. SALVADOR LEAO, 277 - VILA LEAO, SARANDI",
+  "secoes": [
+   485,
+   486,
+   487,
+   488,
+   489
+  ],
+  "eleitores": 2023
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO ESTADUAL JAPÃO",
+  "endereco": "RUA ENRICO CARUSO, 444, JARDIM SABARÁ",
+  "secoes": [
+   43,
+   73,
+   108,
+   135,
+   165,
+   199,
+   234,
+   264,
+   293,
+   336,
+   374,
+   376,
+   387,
+   394
+  ],
+  "eleitores": 5265
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO ESTADUAL PRESIDENTE ARTHUR DA COSTA E SILVA",
+  "endereco": "RUA BADEN POWELL, 409 - PARQUE MINUANO, SARANDI",
+  "secoes": [
+   438,
+   439,
+   440,
+   441,
+   442,
+   443,
+   444,
+   445,
+   446,
+   447,
+   448,
+   449,
+   450
+  ],
+  "eleitores": 3808
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO ESTADUAL PROF. ELMANO LAUFFER LEAL",
+  "endereco": "RUA TENENTE ARY TARRAGÔ, 3345, JARDIM ITU",
+  "secoes": [
+   17,
+   98,
+   166,
+   227,
+   289,
+   355,
+   529,
+   537
+  ],
+  "eleitores": 3171
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO ESTADUAL RUBEN BERTA",
+  "endereco": "AV. SATURNINO DE BRITO, 1400, VILA JARDIM",
+  "secoes": [
+   31,
+   36,
+   76,
+   127,
+   162,
+   186,
+   232,
+   245,
+   270,
+   280,
+   295,
+   324,
+   341,
+   381
+  ],
+  "eleitores": 4963
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO KENNEDY",
+  "endereco": "AV. ALCIDES SÃO SEVERINO, 99, SARANDI",
+  "secoes": [
+   478,
+   479,
+   480,
+   481,
+   482,
+   483,
+   484
+  ],
+  "eleitores": 2624
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO ROMANO SENHOR BOM JESUS",
+  "endereco": "RUA IRMÃO INOCÊNCIO LUIZ, 21, JARDIM SABARÁ",
+  "secoes": [
+   50,
+   84,
+   141,
+   192,
+   248,
+   308,
+   366,
+   385,
+   402,
+   415
+  ],
+  "eleitores": 3413
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO SANTA DOROTÉIA",
+  "endereco": "RUA MALI, 405, VILA IPIRANGA",
+  "secoes": [
+   6,
+   22,
+   70,
+   91,
+   97,
+   113,
+   139,
+   167,
+   176,
+   188,
+   217,
+   237,
+   238,
+   267,
+   311
+  ],
+  "eleitores": 5953
+ },
+ {
+  "zona": 112,
+  "local": "COLÉGIO SINODAL DO SALVADOR",
+  "endereco": "AV. MATHILDE TREIN RENNER, 55, VILA IPIRANGA",
+  "secoes": [
+   32,
+   78,
+   123,
+   172,
+   215,
+   256,
+   309,
+   349,
+   371,
+   403,
+   418,
+   542
+  ],
+  "eleitores": 4577
+ },
+ {
+  "zona": 112,
+  "local": "EDUCANDÁRIO SÃO LUIZ",
+  "endereco": "RUA NICOLAU COELHO, 58, VILA IPIRANGA",
+  "secoes": [
+   348,
+   382,
+   399,
+   406,
+   412
+  ],
+  "eleitores": 1624
+ },
+ {
+  "zona": 112,
+  "local": "EEEB DOLORES ALCARAZ CALDAS",
+  "endereco": "RUA AFONSO CELSO PUPE DA SILVEIRA, 25, PASSO D'AREIA",
+  "secoes": [
+   526,
+   530,
+   534,
+   535,
+   539
+  ],
+  "eleitores": 1929
+ },
+ {
+  "zona": 112,
+  "local": "EEEB GOMES CARNEIRO",
+  "endereco": "PRAÇA ENGENHEIRO PAULO DE ARAGÃO BOZANO, S/N, VILA IPIRANGA",
+  "secoes": [
+   5,
+   74,
+   115,
+   177,
+   212,
+   365,
+   392,
+   407,
+   523,
+   531,
+   532
+  ],
+  "eleitores": 3810
+ },
+ {
+  "zona": 112,
+  "local": "EEEF AMÉRICA",
+  "endereco": "RUA OCTACILIO JOSE DIAS, S/N, PASSO DAS PEDRAS",
+  "secoes": [
+   518,
+   519
+  ],
+  "eleitores": 789
+ },
+ {
+  "zona": 112,
+  "local": "EEEF ANA NÉRI",
+  "endereco": "RUA JOAQUIM SILVEIRA, 730, PARQUE SÃO SEBASTIÃO",
+  "secoes": [
+   9,
+   77,
+   118,
+   155,
+   191,
+   230,
+   279,
+   312,
+   354
+  ],
+  "eleitores": 2932
+ },
+ {
+  "zona": 112,
+  "local": "EEEF BRIGADEIRO FRANCISCO DE LIMA E SILVA",
+  "endereco": "RUA TUNÍSIA, 60, JARDIM ITATI",
+  "secoes": [
+   384,
+   393,
+   419,
+   522,
+   541
+  ],
+  "eleitores": 1711
+ },
+ {
+  "zona": 112,
+  "local": "EEEF DR. FERREIRA DE ABREU",
+  "endereco": "RUA BATOVI, 25 - VILA LEAO, SARANDI",
+  "secoes": [
+   472,
+   473,
+   474,
+   475,
+   476,
+   477,
+   524
+  ],
+  "eleitores": 2113
+ },
+ {
+  "zona": 112,
+  "local": "EEEF ITAMARATI",
+  "endereco": "AV. FRANCISCO RODOLFO SIMCH, 617 - PASSO DA MANGUEIRA, SARANDI",
+  "secoes": [
+   451,
+   452,
+   453,
+   454,
+   455,
+   456,
+   457,
+   458,
+   459,
+   460,
+   461,
+   536
+  ],
+  "eleitores": 4705
+ },
+ {
+  "zona": 112,
+  "local": "EEEF LIDIA MOSCHETTI",
+  "endereco": "AV. SILVESTRE FELIX RODRIGUES, 1000, RUBEM BERTA",
+  "secoes": [
+   462,
+   463,
+   464,
+   465,
+   466,
+   467,
+   468,
+   469,
+   470,
+   471
+  ],
+  "eleitores": 2992
+ },
+ {
+  "zona": 112,
+  "local": "EEEF PORTO ALEGRE",
+  "endereco": "RUA JOAO DALLEGRAVE, 130, PROTÁSIO ALVES (bairro)",
+  "secoes": [
+   520,
+   533,
+   540
+  ],
+  "eleitores": 1148
+ },
+ {
+  "zona": 112,
+  "local": "EEEF PROFA. MARIETA DA CUNHA SILVA",
+  "endereco": "RUA PAULO MADUREIRA COELHO, 165 - VILA PETROPOLIS, PROTÁSIO ALVES (bairro)",
+  "secoes": [
+   513,
+   514,
+   515,
+   516,
+   517,
+   528
+  ],
+  "eleitores": 2196
+ },
+ {
+  "zona": 112,
+  "local": "EEEF TOYAMA",
+  "endereco": "ACESSO TOYAMA, 1, JARDIM SABARÁ",
+  "secoes": [
+   39,
+   105,
+   180,
+   249,
+   332,
+   362
+  ],
+  "eleitores": 2161
+ },
+ {
+  "zona": 112,
+  "local": "EEEM ITÁLIA",
+  "endereco": "AV. PROFESSOR PAULA SOARES, 1095, JARDIM ITU",
+  "secoes": [
+   19,
+   82,
+   121,
+   174,
+   219,
+   275,
+   329,
+   378,
+   388,
+   395
+  ],
+  "eleitores": 3878
+ },
+ {
+  "zona": 112,
+  "local": "EEEM REPUBLICA ARGENTINA",
+  "endereco": "AV. BOGOTÁ, 789, JARDIM LINDÓIA",
+  "secoes": [
+   38,
+   89,
+   169,
+   221,
+   290,
+   333,
+   373,
+   380,
+   386,
+   391,
+   400,
+   408,
+   413,
+   417,
+   538
+  ],
+  "eleitores": 5242
+ },
+ {
+  "zona": 112,
+  "local": "EMEF LAURO RODRIGUES",
+  "endereco": "RUA DR. MARINO ABRAHAO, 240, PASSO DAS PEDRAS",
+  "secoes": [
+   505,
+   506,
+   509,
+   510,
+   511,
+   512
+  ],
+  "eleitores": 2298
+ },
+ {
+  "zona": 112,
+  "local": "EMEF PEPITA DE LEAO",
+  "endereco": "RUA ESTADIO, 29, PASSO DAS PEDRAS",
+  "secoes": [
+   490,
+   491,
+   492,
+   493,
+   494,
+   495,
+   496,
+   497,
+   498,
+   499,
+   500,
+   501,
+   502,
+   503,
+   504
+  ],
+  "eleitores": 3526
+ },
+ {
+  "zona": 112,
+  "local": "EMEF PRESIDENTE VARGAS",
+  "endereco": "RUA ANA AURORA DO AMARAL LISBOA, 60, PASSO DAS PEDRAS",
+  "secoes": [
+   421,
+   422,
+   423,
+   424,
+   425,
+   426,
+   427,
+   428,
+   429,
+   430,
+   431,
+   432,
+   433,
+   434,
+   435,
+   436,
+   437
+  ],
+  "eleitores": 6034
+ },
+ {
+  "zona": 112,
+  "local": "ESCOLA SAO LUIS GUANELLA",
+  "endereco": "AV BENNO MENTZ, 1560, VILA IPIRANGA",
+  "secoes": [
+   14,
+   18,
+   41,
+   57,
+   103,
+   109,
+   120,
+   185,
+   189,
+   226,
+   271,
+   274,
+   283,
+   319,
+   340
+  ],
+  "eleitores": 5188
+ },
+ {
+  "zona": 112,
+  "local": "ESCOLA SESC SÃO JUDAS",
+  "endereco": "RUA DOM DIOGO DE SOUZA, 100, CRISTO REDENTOR",
+  "secoes": [
+   4,
+   13,
+   34,
+   47,
+   53,
+   59,
+   117,
+   129,
+   131,
+   164,
+   198,
+   218,
+   236,
+   244,
+   261,
+   288,
+   343,
+   390,
+   525
+  ],
+  "eleitores": 6302
+ },
+ {
+  "zona": 112,
+  "local": "ESCOLA TÉCNICA JOSÉ CÉSAR DE MESQUITA",
+  "endereco": "AV. DO FORTE, 77, CRISTO REDENTOR",
+  "secoes": [
+   28,
+   104,
+   182,
+   251,
+   326,
+   383,
+   401,
+   405,
+   409,
+   411,
+   414,
+   416,
+   521
+  ],
+  "eleitores": 4992
+ },
+ {
+  "zona": 112,
+  "local": "INSTITUTO ESTADUAL DOM DIOGO DE SOUZA",
+  "endereco": "RUA ADÃO BAINO, 206, CRISTO REDENTOR",
+  "secoes": [
+   8,
+   26,
+   56,
+   112,
+   157,
+   196,
+   208,
+   272,
+   287,
+   296,
+   314,
+   317,
+   337,
+   359,
+   377,
+   396
+  ],
+  "eleitores": 5705
+ },
+ {
+  "zona": 112,
+  "local": "LINDÓIA TÊNIS CLUBE",
+  "endereco": "RUA COMANDANTE GUSTAVO CRAMER, 90, JARDIM LINDÓIA",
+  "secoes": [
+   1,
+   88,
+   137,
+   195,
+   252,
+   306,
+   353,
+   527
+  ],
+  "eleitores": 3166
+ },
+ {
+  "zona": 113,
+  "local": "ALDO LOCATELLI - ESCOLA ESTADUAL",
+  "endereco": "RUA THOMAZ FRANCISCO DE JESUS, S/N - VILA BRASILIA, JARDIM CARVALHO",
+  "secoes": [
+   463,
+   464,
+   465,
+   466,
+   467,
+   468,
+   493,
+   501
+  ],
+  "eleitores": 3093
+ },
+ {
+  "zona": 113,
+  "local": "ANTAO DE FARIA - ESCOLA ESTADUAL",
+  "endereco": "RUA BOM JESUS, 505, BOM JESUS",
+  "secoes": [
+   379,
+   380,
+   381,
+   382,
+   383,
+   384,
+   385,
+   386,
+   387,
+   388,
+   389,
+   390,
+   391,
+   392,
+   490
+  ],
+  "eleitores": 5412
+ },
+ {
+  "zona": 113,
+  "local": "ASSOCIACAO ISRAELITA - CIRCULO SOCIAL E ESPORTIVO",
+  "endereco": "AV PROTASIO ALVES, 3435, PETRÓPOLIS",
+  "secoes": [
+   53,
+   94,
+   165,
+   243,
+   312
+  ],
+  "eleitores": 1939
+ },
+ {
+  "zona": 113,
+  "local": "CEL. APARICIO BORGES - ESCOLA ESTADUAL",
+  "endereco": "AV. CEL. APARICIO BORGES, 2160, CORONEL APARíCIO BORGES",
+  "secoes": [
+   15,
+   39,
+   48,
+   54,
+   83,
+   146,
+   166,
+   191,
+   224,
+   250,
+   300,
+   314
+  ],
+  "eleitores": 3816
+ },
+ {
+  "zona": 113,
+  "local": "COELHO NETO - ESCOLA ESTADUAL",
+  "endereco": "RUA ALEXANDRE HERCULANO, 11, BOM JESUS",
+  "secoes": [
+   393,
+   394,
+   395,
+   396,
+   397,
+   398,
+   399,
+   400,
+   401,
+   402,
+   491
+  ],
+  "eleitores": 3706
+ },
+ {
+  "zona": 113,
+  "local": "DOM PEDRO I - ESCOLA ESTADUAL",
+  "endereco": "RUA PEDRO BOTICARIO, 654, GLÓRIA",
+  "secoes": [
+   1,
+   17,
+   28,
+   43,
+   46,
+   78,
+   118,
+   145,
+   150,
+   190,
+   369,
+   371,
+   374
+  ],
+  "eleitores": 3283
+ },
+ {
+  "zona": 113,
+  "local": "DR. EMILIO KEMP - ESCOLA ESTADUAL",
+  "endereco": "RUA MONTEIRO LOBATO, 475, PARTENON",
+  "secoes": [
+   9,
+   22,
+   52,
+   103,
+   149,
+   232
+  ],
+  "eleitores": 2319
+ },
+ {
+  "zona": 113,
+  "local": "EDGAR LUIZ SCHNEIDER - ESCOLA ESTADUAL",
+  "endereco": "AV. ELIAS CIRNE LIMA, 100 - ESQ. AV. BENTO GONCALVES, PARTENON",
+  "secoes": [
+   452,
+   453,
+   454,
+   455,
+   456,
+   457,
+   458,
+   459,
+   460,
+   461,
+   462
+  ],
+  "eleitores": 4184
+ },
+ {
+  "zona": 113,
+  "local": "ERICO VERISSIMO - ESCOLA ESTADUAL",
+  "endereco": "RUA COM. EDUARDO SECCO, S/N - IPE I, JARDIM CARVALHO",
+  "secoes": [
+   422,
+   423,
+   424,
+   425,
+   426,
+   427,
+   428,
+   429,
+   430
+  ],
+  "eleitores": 2653
+ },
+ {
+  "zona": 113,
+  "local": "ESEF - ESCOLA SUPERIOR DE EDUCACAO FISICA",
+  "endereco": "RUA FELIZARDO, 750, JARDIM BOTÂNICO",
+  "secoes": [
+   10,
+   63,
+   139,
+   170,
+   188,
+   215,
+   247,
+   271,
+   290,
+   322,
+   346,
+   360,
+   370,
+   372,
+   375
+  ],
+  "eleitores": 5498
+ },
+ {
+  "zona": 113,
+  "local": "FERNANDO GOMES - ESCOLA ESTADUAL",
+  "endereco": "RUA PROF. FREDERICO GUILHERME GAELZER, 168, JARDIM DO SALSO",
+  "secoes": [
+   403,
+   404,
+   405,
+   406,
+   407,
+   408,
+   409,
+   410,
+   411,
+   479,
+   492
+  ],
+  "eleitores": 4108
+ },
+ {
+  "zona": 113,
+  "local": "GEMA ANGELINA BELIA - ESCOLA ESTADUAL",
+  "endereco": "AV. ANTONIO DE CARVALHO, 495, JARDIM CARVALHO",
+  "secoes": [
+   441,
+   442,
+   443,
+   444,
+   445,
+   446,
+   447,
+   448,
+   449,
+   450,
+   451,
+   488,
+   496,
+   502
+  ],
+  "eleitores": 5043
+ },
+ {
+  "zona": 113,
+  "local": "GEN. IBA ILHA MOREIRA - ESCOLA ESTADUAL",
+  "endereco": "RUA UM, S/N - CEFER I, JARDIM CARVALHO",
+  "secoes": [
+   431,
+   432,
+   433,
+   434,
+   435,
+   436,
+   437,
+   438,
+   439,
+   440,
+   487
+  ],
+  "eleitores": 3408
+ },
+ {
+  "zona": 113,
+  "local": "GINASIO - PARQUE ARARIGBOIA",
+  "endereco": "RUA SAICÃ, 06, JARDIM BOTÂNICO",
+  "secoes": [
+   498,
+   500,
+   503
+  ],
+  "eleitores": 1205
+ },
+ {
+  "zona": 113,
+  "local": "GREMIO NAUTICO UNIAO - SEDE PETROPOLE TENIS CLUBE",
+  "endereco": "RUA REIS LOUZADA, 166 (GINASIO), PETRÓPOLIS",
+  "secoes": [
+   38,
+   44,
+   93,
+   143,
+   186,
+   238,
+   353,
+   358,
+   489
+  ],
+  "eleitores": 3410
+ },
+ {
+  "zona": 113,
+  "local": "JOSE MARIANO BECK - ESCOLA MUNICIPAL",
+  "endereco": "AV. JOAQUIM PORTO VILLANOVA, 135 - VILA PINTO, BOM JESUS",
+  "secoes": [
+   469,
+   470,
+   471,
+   472,
+   473,
+   474,
+   475,
+   476,
+   485
+  ],
+  "eleitores": 2620
+ },
+ {
+  "zona": 113,
+  "local": "MAURICIO SIROTSKY SOBRINHO - ESCOLA ESTADUAL",
+  "endereco": "RUA PADRE CALDAS, 59, PARTENON",
+  "secoes": [
+   12,
+   72,
+   106,
+   140,
+   172,
+   200,
+   230,
+   240,
+   270,
+   356,
+   361
+  ],
+  "eleitores": 3092
+ },
+ {
+  "zona": 113,
+  "local": "NOSSA SENHORA DA GLORIA - COLEGIO",
+  "endereco": "AV. PROF. OSCAR PEREIRA, 3052, GLÓRIA",
+  "secoes": [
+   24,
+   68,
+   101,
+   135,
+   184,
+   227,
+   229,
+   263,
+   268,
+   277,
+   297,
+   311,
+   343,
+   351,
+   362,
+   364,
+   368
+  ],
+  "eleitores": 4532
+ },
+ {
+  "zona": 113,
+  "local": "NOSSA SENHORA DE FATIMA - ESCOLA MUNICIPAL",
+  "endereco": "RUA A, 15 - VILA NOSSA SENHORA DE FATIMA, BOM JESUS",
+  "secoes": [
+   413,
+   414,
+   415,
+   416,
+   417,
+   418,
+   419,
+   420,
+   421,
+   480,
+   484
+  ],
+  "eleitores": 3695
+ },
+ {
+  "zona": 113,
+  "local": "OTAVIO ROCHA - ESCOLA ESTADUAL",
+  "endereco": "RUA GUILHERME ALVES, 1900, PARTENON",
+  "secoes": [
+   6,
+   21,
+   31,
+   98,
+   151,
+   173,
+   206,
+   237,
+   275,
+   294,
+   308,
+   310,
+   331,
+   338,
+   357
+  ],
+  "eleitores": 4189
+ },
+ {
+  "zona": 113,
+  "local": "PADRE BALDUINO RAMBO - ESCOLA ESTADUAL",
+  "endereco": "RUA HUMBERTO DE CAMPOS, 130, PARTENON",
+  "secoes": [
+   4,
+   11,
+   32,
+   41,
+   75,
+   99,
+   124,
+   126,
+   159,
+   201,
+   279,
+   339
+  ],
+  "eleitores": 3536
+ },
+ {
+  "zona": 113,
+  "local": "PADRE RAMBO - ESCOLA ESTADUAL",
+  "endereco": "AV. BENTO GONCALVES, 1731, SANTO ANTONIO",
+  "secoes": [
+   51,
+   79,
+   147,
+   204,
+   266,
+   269,
+   280,
+   304,
+   326,
+   330,
+   350
+  ],
+  "eleitores": 3843
+ },
+ {
+  "zona": 113,
+  "local": "PARTENON TENIS CLUBE",
+  "endereco": "RUA PADRE CALDAS, 21 - GINÁSIO, PARTENON",
+  "secoes": [
+   117,
+   136,
+   153,
+   180,
+   198,
+   218
+  ],
+  "eleitores": 2190
+ },
+ {
+  "zona": 113,
+  "local": "PROF. LEA ROSA CECCHINI BRUM - ESCOLA ESTADUAL",
+  "endereco": "RUA JOSÉ ALBANO WOLKMER, 347 (ESQ RUA MARTA COSTA FRANZEN), JARDIM DO SALSO",
+  "secoes": [
+   477,
+   482,
+   486,
+   495,
+   497,
+   499
+  ],
+  "eleitores": 1695
+ },
+ {
+  "zona": 113,
+  "local": "PROF. LEOPOLDO TIETBOHL - ESCOLA ESTADUAL",
+  "endereco": "RUA RIVEIRA, 400, PETRÓPOLIS",
+  "secoes": [
+   13,
+   35,
+   36,
+   49,
+   50,
+   89,
+   144,
+   148,
+   225,
+   241,
+   281,
+   293,
+   341,
+   342
+  ],
+  "eleitores": 4970
+ },
+ {
+  "zona": 113,
+  "local": "PROF. OTAVIO DE SOUZA - ESCOLA ESTADUAL",
+  "endereco": "RUA AFONSO RODRIGUES, 100, JARDIM BOTÂNICO",
+  "secoes": [
+   29,
+   33,
+   80,
+   108,
+   120,
+   211,
+   291,
+   363
+  ],
+  "eleitores": 2851
+ },
+ {
+  "zona": 113,
+  "local": "SALÃO PAROQUIAL - IGREJA SÃO LUIZ GONZAGA",
+  "endereco": "RUA GUILHERME ALVES, 574, JARDIM BOTÂNICO",
+  "secoes": [
+   378,
+   478,
+   481,
+   483,
+   494
+  ],
+  "eleitores": 1852
+ },
+ {
+  "zona": 113,
+  "local": "SANTA INES - COLEGIO",
+  "endereco": "AV PROTASIO ALVES, 2493, PETRÓPOLIS",
+  "secoes": [
+   14,
+   26,
+   57,
+   65,
+   87,
+   111,
+   130,
+   152,
+   189,
+   214,
+   248,
+   249,
+   273,
+   305,
+   325
+  ],
+  "eleitores": 5699
+ },
+ {
+  "zona": 113,
+  "local": "SANTO ANTONIO - COLEGIO",
+  "endereco": "RUA LUIZ DE CAMOES, 372, SANTO ANTONIO",
+  "secoes": [
+   2,
+   7,
+   42,
+   66,
+   85,
+   112,
+   127,
+   138,
+   167,
+   177,
+   194,
+   212,
+   234,
+   236,
+   265,
+   289,
+   319,
+   329,
+   344,
+   348
+  ],
+  "eleitores": 6410
+ },
+ {
+  "zona": 114,
+  "local": "ALBERTO TORRES, ESC EST ENS MED",
+  "endereco": "AV. RODRIGUES DA FONSECA, 1666, VILA NOVA",
+  "secoes": [
+   512,
+   513,
+   514,
+   515,
+   516,
+   517,
+   518,
+   519,
+   520,
+   521,
+   522,
+   523,
+   524,
+   525,
+   526,
+   527,
+   544
+  ],
+  "eleitores": 5278
+ },
+ {
+  "zona": 114,
+  "local": "ANITA GARIBALDI, ESC EST ENS FUND INC",
+  "endereco": "AV. SAO JOSE DO NORTE, S/N, BELÉM VELHO",
+  "secoes": [
+   496,
+   497,
+   498,
+   499,
+   500,
+   501
+  ],
+  "eleitores": 1758
+ },
+ {
+  "zona": 114,
+  "local": "ASSUNÇÃO, COLEGIO MARISTA",
+  "endereco": "RUA DOM BOSCO, 103, GLÓRIA",
+  "secoes": [
+   3,
+   134,
+   199,
+   245,
+   287,
+   346,
+   422,
+   434,
+   446,
+   587
+  ],
+  "eleitores": 3855
+ },
+ {
+  "zona": 114,
+  "local": "BRIGADEIRO SILVA PAES, ESC EST ENS FUND",
+  "endereco": "RUA PROF CLEMENTE PINTO, 555, TERESÓPOLIS",
+  "secoes": [
+   38,
+   119,
+   186,
+   248,
+   312,
+   369,
+   411,
+   428,
+   443,
+   466,
+   480
+  ],
+  "eleitores": 3343
+ },
+ {
+  "zona": 114,
+  "local": "CEARÁ, ESC EST ENS MED",
+  "endereco": "AV. ARNALDO BOHRER, 98, TERESÓPOLIS",
+  "secoes": [
+   28,
+   70,
+   74,
+   126,
+   202,
+   583
+  ],
+  "eleitores": 2019
+ },
+ {
+  "zona": 114,
+  "local": "CIDADE JARDIM, ESC EST ENS FUND",
+  "endereco": "AV. FABIO ARAUJO SANTOS, S/N, NONOAI",
+  "secoes": [
+   502,
+   503,
+   545,
+   563,
+   573,
+   584
+  ],
+  "eleitores": 2384
+ },
+ {
+  "zona": 114,
+  "local": "COMUNIDADE SOCIOEDUCATIVA (CSE) - FASE",
+  "endereco": "AV. JACUÍ, S/N, CRISTAL",
+  "secoes": [
+   580
+  ],
+  "eleitores": 0
+ },
+ {
+  "zona": 114,
+  "local": "DR. PACHECO PRATES, ESC EST ENS FUND",
+  "endereco": "PRACA NOSSA SENHORA DE BELÉM, S/N, BELÉM VELHO",
+  "secoes": [
+   504,
+   505,
+   506,
+   507,
+   508,
+   509,
+   510,
+   511,
+   558
+  ],
+  "eleitores": 3211
+ },
+ {
+  "zona": 114,
+  "local": "DR. VICTOR DE BRITTO, ESC EST ENS FUND",
+  "endereco": "RUA SEBASTIÃO WOLF, 231, NONOAI",
+  "secoes": [
+   11,
+   12,
+   89,
+   116,
+   144,
+   166,
+   217,
+   242,
+   281,
+   386,
+   448
+  ],
+  "eleitores": 3145
+ },
+ {
+  "zona": 114,
+  "local": "EMILIO MEYER, ESC MUNIC",
+  "endereco": "AV NITEROI, 472, MEDIANEIRA",
+  "secoes": [
+   8,
+   14,
+   122,
+   165,
+   271,
+   361,
+   409,
+   415,
+   430,
+   441,
+   462,
+   483
+  ],
+  "eleitores": 3358
+ },
+ {
+  "zona": 114,
+  "local": "FERNANDO FERRARI, ESC EST ENS FUND",
+  "endereco": "RUA UPAMOROTI, 1200, CRISTAL",
+  "secoes": [
+   478,
+   555,
+   567,
+   586
+  ],
+  "eleitores": 1261
+ },
+ {
+  "zona": 114,
+  "local": "GABRIEL OBINO, ESC MUNIC",
+  "endereco": "AV. ENG. LUDOLFO BOEHL, 1402, TERESÓPOLIS",
+  "secoes": [
+   81,
+   269,
+   435,
+   444,
+   557
+  ],
+  "eleitores": 1799
+ },
+ {
+  "zona": 114,
+  "local": "IGREJA SAO JOSE, SALÃO PAROQUIAL",
+  "endereco": "AV. RODRIGUES DA FONSECA, 1459, VILA NOVA",
+  "secoes": [
+   528,
+   529,
+   530,
+   531,
+   532,
+   533,
+   534,
+   548
+  ],
+  "eleitores": 2077
+ },
+ {
+  "zona": 114,
+  "local": "JERONIMO DE ORNELAS, ESC EST ENS FUND",
+  "endereco": "RUA SAO MIGUEL, 487, CORONEL APARíCIO BORGES",
+  "secoes": [
+   535,
+   536,
+   537,
+   538,
+   539,
+   540,
+   541,
+   542
+  ],
+  "eleitores": 2232
+ },
+ {
+  "zona": 114,
+  "local": "JOAO XXIII, FUND EDUC",
+  "endereco": "RUA SEPE TIARAJU,1013, SANTA TEREZA",
+  "secoes": [
+   24,
+   41,
+   93,
+   121,
+   123,
+   161,
+   191,
+   214,
+   257,
+   307,
+   310,
+   350
+  ],
+  "eleitores": 4436
+ },
+ {
+  "zona": 114,
+  "local": "JOSE LOUREIRO DA SILVA, ESC MUNIC",
+  "endereco": "AV. CAPIVARI, 1999, CRISTAL",
+  "secoes": [
+   7,
+   42,
+   98,
+   145,
+   167,
+   204,
+   238,
+   286,
+   297,
+   342,
+   399,
+   414,
+   432,
+   439,
+   452,
+   468,
+   471,
+   550
+  ],
+  "eleitores": 5748
+ },
+ {
+  "zona": 114,
+  "local": "JOÃO PAULO, COLÉGIO",
+  "endereco": "AV. PADRE CACIQUE, 532, PRAIA DE BELAS",
+  "secoes": [
+   413,
+   416,
+   437,
+   467,
+   551
+  ],
+  "eleitores": 1545
+ },
+ {
+  "zona": 114,
+  "local": "MACHADO DE ASSIS, ESC EST ENS FUND",
+  "endereco": "RUA XAVIER DA CUNHA, 680, NONOAI",
+  "secoes": [
+   367,
+   379,
+   423,
+   449,
+   461,
+   473,
+   562
+  ],
+  "eleitores": 2171
+ },
+ {
+  "zona": 114,
+  "local": "MARIA IMACULADA, COLÉGIO",
+  "endereco": "AV PADRE CACIQUE, 1028, PRAIA DE BELAS",
+  "secoes": [
+   10,
+   73,
+   143,
+   283,
+   303,
+   323,
+   353,
+   396
+  ],
+  "eleitores": 2409
+ },
+ {
+  "zona": 114,
+  "local": "MARIA IMACULADA, ESCOLA",
+  "endereco": "RUA GENERAL GOMES CARNEIRO, 364, MEDIANEIRA",
+  "secoes": [
+   475,
+   476,
+   543,
+   549,
+   560,
+   565,
+   569,
+   571
+  ],
+  "eleitores": 1923
+ },
+ {
+  "zona": 114,
+  "local": "NACOES UNIDAS, ESC EST ENS FUND",
+  "endereco": "RUA MANOEL DO CARMO, 100, NONOAI",
+  "secoes": [
+   18,
+   56,
+   64,
+   128,
+   147,
+   189,
+   237,
+   279,
+   334,
+   343
+  ],
+  "eleitores": 3096
+ },
+ {
+  "zona": 114,
+  "local": "PARANÁ, ESC EST ENS FUND",
+  "endereco": "AV TAQUARY, 395, CRISTAL",
+  "secoes": [
+   29,
+   137,
+   216,
+   273,
+   336,
+   397,
+   408,
+   440,
+   454,
+   458,
+   470,
+   482,
+   559,
+   572
+  ],
+  "eleitores": 4452
+ },
+ {
+  "zona": 114,
+  "local": "PASTOR DOHMS, CENTRO DE ENSINO MÉDIO",
+  "endereco": "AV. ARNALDO BOHRER, 253, TERESÓPOLIS",
+  "secoes": [
+   32,
+   55,
+   149,
+   246,
+   277,
+   395,
+   398,
+   421,
+   445,
+   479
+  ],
+  "eleitores": 3660
+ },
+ {
+  "zona": 114,
+  "local": "PENITENCIÁRIA FEMININO MADRE PELLETIER",
+  "endereco": "AVENIDA TERESOPOLIS, 2727, TERESÓPOLIS",
+  "secoes": [
+   574
+  ],
+  "eleitores": 0
+ },
+ {
+  "zona": 114,
+  "local": "PROF. AFONSO GUERREIRO LIMA, ESC EST ENS FUND",
+  "endereco": "RUA BANCO INGLÊS, 300, SANTA TEREZA",
+  "secoes": [
+   23,
+   91,
+   124,
+   162,
+   207,
+   255,
+   406,
+   431,
+   438,
+   450,
+   457,
+   465,
+   588
+  ],
+  "eleitores": 4479
+ },
+ {
+  "zona": 114,
+  "local": "PROF. ELPIDIO FERREIRA PAES, ESC EST",
+  "endereco": "RUA INHANDUÍ, 432, CRISTAL",
+  "secoes": [
+   48,
+   66,
+   114,
+   174,
+   181,
+   222,
+   234,
+   276,
+   293,
+   324,
+   349,
+   388,
+   417,
+   424,
+   429,
+   546
+  ],
+  "eleitores": 5249
+ },
+ {
+  "zona": 114,
+  "local": "PROF. OSCAR PEREIRA, ESC EST ENS MED",
+  "endereco": "RUA FRANCISCO MARTINS, S/N, CASCATA",
+  "secoes": [
+   491,
+   492,
+   493,
+   495,
+   556,
+   564,
+   568,
+   585
+  ],
+  "eleitores": 2953
+ },
+ {
+  "zona": 114,
+  "local": "SANTA RITA DE CASSIA, ESC EST ENS FUND",
+  "endereco": "RUA SILVEIRO, 1640, SANTA TEREZA",
+  "secoes": [
+   43,
+   95,
+   136,
+   205,
+   284,
+   320,
+   356,
+   401,
+   405,
+   419,
+   426,
+   433,
+   547
+  ],
+  "eleitores": 3633
+ },
+ {
+  "zona": 114,
+  "local": "SIMOES LOPES NETO, ESC EST ENS FUND",
+  "endereco": "TRAVESSA IRMAO PEDRO, S/N, TERESÓPOLIS",
+  "secoes": [
+   78,
+   176,
+   263,
+   358,
+   447
+  ],
+  "eleitores": 1676
+ },
+ {
+  "zona": 114,
+  "local": "SÃO JOÃO LUIZ ORIONE, CAPELA",
+  "endereco": "RUA DORMENIO, 487 - ESQUINA RUA PRISMA, SANTA TEREZA",
+  "secoes": [
+   474,
+   554
+  ],
+  "eleitores": 577
+ },
+ {
+  "zona": 114,
+  "local": "UNIRITTER - CENTRO UNIVERSITÁRIO RITTER DOS REIS",
+  "endereco": "RUA ORFANOTRÓFIO, 555, SANTA TEREZA",
+  "secoes": [
+   392,
+   402,
+   403,
+   418,
+   420,
+   463,
+   566,
+   570,
+   578,
+   582
+  ],
+  "eleitores": 3435
+ },
+ {
+  "zona": 114,
+  "local": "UNIVERSITÁRIO, COLÉGIO",
+  "endereco": "AV. TERESOPOLIS, 2805, TERESÓPOLIS",
+  "secoes": [
+   40,
+   171,
+   210,
+   254,
+   268,
+   282,
+   354,
+   360,
+   364,
+   385,
+   410,
+   442,
+   460,
+   481,
+   581
+  ],
+  "eleitores": 4367
+ },
+ {
+  "zona": 114,
+  "local": "VENEZUELA, ESC EST ENS FUND",
+  "endereco": "AV NITEROI - ESQUINA TRAV. VIAMAO, MEDIANEIRA",
+  "secoes": [
+   37,
+   50,
+   69,
+   77,
+   125,
+   132,
+   201,
+   208,
+   250,
+   280,
+   335,
+   337,
+   352,
+   425
+  ],
+  "eleitores": 3699
+ },
+ {
+  "zona": 114,
+  "local": "VERA CRUZ, ESC EST ENS FUND",
+  "endereco": "RUA DONA LUIZA ROCCO, S/N - PROXIMO AV OSCAR PEREIRA, GLÓRIA",
+  "secoes": [
+   472,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489,
+   490,
+   561,
+   579
+  ],
+  "eleitores": 2847
+ },
+ {
+  "zona": 158,
+  "local": "ARAUJO PORTO ALEGRE - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA PANDIA CALOGERAS, 429 - VILA ELIZABETH, SARANDI",
+  "secoes": [
+   11,
+   21,
+   40,
+   54,
+   91,
+   132,
+   173,
+   239,
+   285,
+   342,
+   367,
+   396,
+   445,
+   497,
+   516
+  ],
+  "eleitores": 5676
+ },
+ {
+  "zona": 158,
+  "local": "BALTAZAR DE OLIVEIRA GARCIA - ESC. EST. DE ENS. MEDIO",
+  "endereco": "RUA SGT. SILVIO DELMAR HOLLENBACH, 69, JARDIM LEOPOLDINA",
+  "secoes": [
+   3,
+   64,
+   68,
+   75,
+   86,
+   93,
+   110,
+   116,
+   134,
+   147,
+   158,
+   175,
+   187,
+   393,
+   401,
+   488,
+   502,
+   514,
+   520,
+   523,
+   528,
+   532,
+   539,
+   543
+  ],
+  "eleitores": 9330
+ },
+ {
+  "zona": 158,
+  "local": "BENTO GONCALVES - ESC. EST. DE ENSINO FUNDAMENTAL",
+  "endereco": "RUA JORGE FURTADO, 47 - VILA NOVA SANTA ROSA, SANTA ROSA DE LIMA",
+  "secoes": [
+   240,
+   268,
+   291,
+   307,
+   331,
+   344,
+   470,
+   507
+  ],
+  "eleitores": 3026
+ },
+ {
+  "zona": 158,
+  "local": "CENTRO DE ENSINO MEDIO PASTOR DOHMS - UNIDADE ZONA NORTE",
+  "endereco": "AV. IRENE RUPERTI, 25, PARQUE SANTA FÉ",
+  "secoes": [
+   9,
+   18,
+   36,
+   47,
+   82,
+   462,
+   487,
+   512,
+   521,
+   535,
+   549
+  ],
+  "eleitores": 4166
+ },
+ {
+  "zona": 158,
+  "local": "CESMAR - CENTRO SOCIAL MARISTA",
+  "endereco": "ESTRADA ANTONIO SEVERINO,1493, MÁRIO QUINTANA",
+  "secoes": [
+   533,
+   540,
+   542,
+   544,
+   548,
+   550
+  ],
+  "eleitores": 2463
+ },
+ {
+  "zona": 158,
+  "local": "CHICO MENDES - ESC. MUNICIPAL DE ENS. FUNDAMENTAL",
+  "endereco": "RUA GENTIL AMANCIO CLEMENTE, S/N - CHÁCARA DA FUMAÇA, MÁRIO QUINTANA",
+  "secoes": [
+   8,
+   14,
+   26,
+   43,
+   51,
+   84,
+   99,
+   478,
+   481,
+   498,
+   508,
+   515,
+   536,
+   541,
+   545
+  ],
+  "eleitores": 5412
+ },
+ {
+  "zona": 158,
+  "local": "CRISTÓVÃO COLOMBO, ESC. EST. ENSINO MÉDIO",
+  "endereco": "RUA REZENDE COSTA, 805, SARANDI",
+  "secoes": [
+   16,
+   168,
+   299,
+   316,
+   335,
+   490
+  ],
+  "eleitores": 2152
+ },
+ {
+  "zona": 158,
+  "local": "DAVID CANABARRO - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA LYDIA MOSCHETTI, 200 - JARDIM LEOPOLDINA, JARDIM LEOPOLDINA",
+  "secoes": [
+   56,
+   97,
+   254,
+   273,
+   284,
+   292,
+   305,
+   321,
+   334,
+   346,
+   412,
+   421,
+   460,
+   474,
+   489,
+   503,
+   510,
+   526
+  ],
+  "eleitores": 6840
+ },
+ {
+  "zona": 158,
+  "local": "DECIO MARTINS COSTA - E. M. E. F - SANTO AGOSTINHO",
+  "endereco": "RUA CRISTÓVÃO JAQUES, 488 - VILA SANTO AGOSTINHO, SANTA ROSA DE LIMA",
+  "secoes": [
+   45,
+   78,
+   80,
+   144,
+   183,
+   220,
+   266,
+   323,
+   364,
+   404,
+   442,
+   465,
+   496,
+   513,
+   517
+  ],
+  "eleitores": 5377
+ },
+ {
+  "zona": 158,
+  "local": "DEP. VICTOR ISSLER - ESC. MUNICIPAL DE ENS. FUNDAMENTAL",
+  "endereco": "RUA DEZENOVE DE FEVEREIRO, 330 - CHACARA DA FUMACA, MÁRIO QUINTANA",
+  "secoes": [
+   25,
+   92,
+   148,
+   200,
+   265,
+   320,
+   379,
+   416,
+   419,
+   425,
+   468,
+   524,
+   538
+  ],
+  "eleitores": 4586
+ },
+ {
+  "zona": 158,
+  "local": "DR. LIBERATO SALZANO VIEIRA DA CUNHA - E.M.E.B",
+  "endereco": "RUA XAVIER DE CARVALHO, 274, SARANDI",
+  "secoes": [
+   10,
+   69,
+   85,
+   106,
+   125,
+   154,
+   179,
+   206,
+   225,
+   247,
+   356,
+   377,
+   447,
+   453,
+   527,
+   547
+  ],
+  "eleitores": 6028
+ },
+ {
+  "zona": 158,
+  "local": "DÉCIO MARTINS COSTA - ESC. EST. VILA ELIZABETH",
+  "endereco": "RUA DOMIGOS DE ABREU, 967 - VILA ELIZABETH, SARANDI",
+  "secoes": [
+   7,
+   77,
+   79,
+   114,
+   160,
+   205,
+   243,
+   294,
+   338,
+   360,
+   400,
+   450
+  ],
+  "eleitores": 4442
+ },
+ {
+  "zona": 158,
+  "local": "ENG. RODOLFO AHRONS - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "EST. ANTÔNIO SEVERINO, 109 - VILA VARIG, RUBEM BERTA",
+  "secoes": [
+   392,
+   410,
+   422,
+   454,
+   495,
+   518
+  ],
+  "eleitores": 2151
+ },
+ {
+  "zona": 158,
+  "local": "GOVERNADOR ILDO MENEGHETTI - ESC. MUNICIPAL DE ENS. FUNDAMENTAL",
+  "endereco": "RUA JAYME CYRINO MACHADO DE OLIVEIRA, 250, SANTA ROSA DE LIMA",
+  "secoes": [
+   6,
+   17,
+   34,
+   42,
+   57,
+   98,
+   389,
+   403,
+   413,
+   431,
+   434,
+   469,
+   493,
+   505,
+   534
+  ],
+  "eleitores": 5484
+ },
+ {
+  "zona": 158,
+  "local": "INSTITUTO DE EDUCACAO SAO FRANCISCO",
+  "endereco": "AV. BALTAZAR DE OLIVEIRA GARCIA, 4879, RUBEM BERTA",
+  "secoes": [
+   23,
+   55,
+   67,
+   81,
+   101,
+   119,
+   145,
+   170,
+   190,
+   213,
+   235,
+   255,
+   281,
+   301,
+   322,
+   351,
+   475,
+   484,
+   506,
+   530
+  ],
+  "eleitores": 7375
+ },
+ {
+  "zona": 158,
+  "local": "JOAO ANTONIO SATTE - ESC. MUNICIPAL DE ENS. FUNDAMENTAL",
+  "endereco": "AV. GAMAL ABDEL NASSER, 500 - PARQUE DOS MAIAS, SANTA ROSA DE LIMA",
+  "secoes": [
+   2,
+   22,
+   73,
+   102,
+   209,
+   297,
+   358,
+   394,
+   414,
+   432,
+   437,
+   441,
+   446,
+   461,
+   477,
+   492,
+   504
+  ],
+  "eleitores": 6476
+ },
+ {
+  "zona": 158,
+  "local": "JULIO BRUNELLI - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA FERNANDO CAMARANO, 220 - COHAB RUBEM BERTA, RUBEM BERTA",
+  "secoes": [
+   1,
+   13,
+   58,
+   90,
+   428,
+   435,
+   439,
+   440,
+   443,
+   452,
+   473,
+   483,
+   500,
+   531
+  ],
+  "eleitores": 5159
+ },
+ {
+  "zona": 158,
+  "local": "MAJOR MIGUEL JOSE PEREIRA - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA JACKSON DE FIGUEIREDO, 675 - VILA ELIZABETH, SARANDI",
+  "secoes": [
+   37,
+   153,
+   204,
+   233,
+   262,
+   298,
+   463
+  ],
+  "eleitores": 2624
+ },
+ {
+  "zona": 158,
+  "local": "MARIZ E BARROS - ESC. EST. DE ENS. MEDIO",
+  "endereco": "AV. DEL. ELY CORREA PRADO, 915 - VILA SAFIRA, MÁRIO QUINTANA",
+  "secoes": [
+   44,
+   59,
+   130,
+   202,
+   259,
+   330,
+   370,
+   397,
+   411,
+   420,
+   449,
+   472,
+   486,
+   499,
+   509,
+   525,
+   537,
+   546
+  ],
+  "eleitores": 6692
+ },
+ {
+  "zona": 158,
+  "local": "MIN. POTY MEDEIROS - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA VICENTE CELESTINO, 120, RUBEM BERTA",
+  "secoes": [
+   50,
+   88,
+   362,
+   374,
+   378,
+   390,
+   399,
+   415,
+   459,
+   480,
+   501,
+   519
+  ],
+  "eleitores": 4538
+ },
+ {
+  "zona": 158,
+  "local": "PADRE LEO - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA NOSSA SENHORA DE FATIMA, 195, RUBEM BERTA",
+  "secoes": [
+   361,
+   365,
+   369,
+   372,
+   383,
+   395,
+   402,
+   417
+  ],
+  "eleitores": 2419
+ },
+ {
+  "zona": 158,
+  "local": "PRES. JOAO BELCHIOR M. GOULART - ESC. MUN. DE ENS. FUND.",
+  "endereco": "RUA JOAO LUIZ PUFAL, 100 - VILA ELIZABETE, SARANDI",
+  "secoes": [
+   24,
+   35,
+   72,
+   107,
+   136,
+   151,
+   171,
+   278
+  ],
+  "eleitores": 2400
+ },
+ {
+  "zona": 158,
+  "local": "PROF. AURORA PEIXOTO DE AZEVEDO - ESC. EST. DE ENS. FUNDAMENTAL",
+  "endereco": "RUA PEDRO DOS SANTOS SÁ, 50 - VILA NOVA BRASILIA, SARANDI",
+  "secoes": [
+   423,
+   430,
+   456,
+   511
+  ],
+  "eleitores": 1352
+ },
+ {
+  "zona": 158,
+  "local": "SANTA ROSA - ESC. EST. DE ENS. MEDIO",
+  "endereco": "AV. BERNARDINO DE OLIVEIRA PAIM, 665 - VILA SANTA ROSA, SANTA ROSA DE LIMA",
+  "secoes": [
+   20,
+   66,
+   71,
+   83,
+   96,
+   122,
+   143,
+   161,
+   181,
+   197,
+   211,
+   224,
+   357,
+   366,
+   371,
+   522,
+   529
+  ],
+  "eleitores": 6552
+ },
+ {
+  "zona": 159,
+  "local": "CADEIA PÚBLICA DE PORTO ALEGRE",
+  "endereco": "AV. ROCIO, 1100, VILA JOÃO PESSOA",
+  "secoes": [
+   533
+  ],
+  "eleitores": 0
+ },
+ {
+  "zona": 159,
+  "local": "COLEGIO DE APLICACAO DA UFRGS",
+  "endereco": "AV. BENTO GONCALVES, 9500, AGRONOMIA",
+  "secoes": [
+   10,
+   20,
+   42,
+   85,
+   90,
+   120,
+   145,
+   162,
+   176,
+   185,
+   214,
+   226,
+   284,
+   323,
+   473,
+   495
+  ],
+  "eleitores": 5098
+ },
+ {
+  "zona": 159,
+  "local": "COLEGIO MARISTA CHAMPAGNAT",
+  "endereco": "AV. BENTO GONCALVES, 4314, PARTENON",
+  "secoes": [
+   19,
+   27,
+   32,
+   44,
+   60,
+   73,
+   77,
+   83,
+   117,
+   124,
+   125,
+   169,
+   199,
+   242,
+   285,
+   336,
+   355,
+   363,
+   364,
+   376,
+   395,
+   397
+  ],
+  "eleitores": 7407
+ },
+ {
+  "zona": 159,
+  "local": "COLEGIO MARISTA CHAMPAGNAT - SECAO ESPECIAL",
+  "endereco": "AV. BENTO GONCALVES, 4314, PARTENON",
+  "secoes": [
+   106
+  ],
+  "eleitores": 366
+ },
+ {
+  "zona": 159,
+  "local": "COLEGIO SAO JOSE DO MURIALDO",
+  "endereco": "RUA VIDAL DE NEGREIROS, 423, SÃO JOSÉ",
+  "secoes": [
+   18,
+   29,
+   50,
+   70,
+   113,
+   175,
+   219,
+   262,
+   278,
+   327,
+   356,
+   380,
+   393,
+   415
+  ],
+  "eleitores": 5433
+ },
+ {
+  "zona": 159,
+  "local": "EMEF DEPUTADO MARCÍRIO GOULART LOUREIRO",
+  "endereco": "RUA SAIBREIRA S/N, CORONEL APARíCIO BORGES",
+  "secoes": [
+   476,
+   490,
+   504,
+   515,
+   528,
+   537
+  ],
+  "eleitores": 2318
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU ARAUJO VIANA",
+  "endereco": "RUA NOVE DE JUNHO, 542, SÃO JOSÉ",
+  "secoes": [
+   45,
+   92,
+   137,
+   195,
+   215,
+   254,
+   315,
+   405,
+   472
+  ],
+  "eleitores": 3351
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU DR. MARTINS COSTA JUNIOR",
+  "endereco": "RUA DONA FIRMINA, 1377, SÃO JOSÉ",
+  "secoes": [
+   9,
+   47,
+   67,
+   97,
+   131,
+   171,
+   193,
+   228,
+   239,
+   261,
+   292,
+   321,
+   353,
+   412
+  ],
+  "eleitores": 4092
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU INC. DESIDERIO TORQUATO FINAMOR",
+  "endereco": "AV. BENTO GONCALVES, 7500, AGRONOMIA",
+  "secoes": [
+   39,
+   49,
+   110,
+   154,
+   164,
+   207,
+   295,
+   317
+  ],
+  "eleitores": 2910
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU INC. JERONIMO DE ALBUQUERQUE",
+  "endereco": "RUA JUAREZ TAVORA, 550, VILA JOÃO PESSOA",
+  "secoes": [
+   6,
+   34,
+   178,
+   255,
+   333,
+   359,
+   379,
+   391,
+   392,
+   398,
+   406,
+   416
+  ],
+  "eleitores": 3159
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU MIN. SALGADO FILHO",
+  "endereco": "RUA DR. JOSE BENTO CORREA, 100 - JARDIM YPU, MORRO SANTANA",
+  "secoes": [
+   3,
+   38,
+   51,
+   98,
+   136,
+   149,
+   177,
+   212,
+   361,
+   373,
+   482,
+   491,
+   532
+  ],
+  "eleitores": 4938
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE 1 GRAU PROF. ALCIDES CUNHA",
+  "endereco": "RUA HELIO PIMPAO, 52, MORRO SANTANA",
+  "secoes": [
+   11,
+   56,
+   62,
+   81,
+   107,
+   141,
+   188,
+   197,
+   221,
+   256,
+   286,
+   324,
+   377,
+   518
+  ],
+  "eleitores": 5662
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE ENSINO FUNDAMENTAL MADRE MARIA SELIMA",
+  "endereco": "RUA TENENTE ARY TARRAGO PARTENON, 130, CORONEL APARíCIO BORGES",
+  "secoes": [
+   126,
+   153,
+   189,
+   206,
+   480
+  ],
+  "eleitores": 1710
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE ENSINO FUNDAMENTAL MARIA CRISTINA CHIKA",
+  "endereco": "ESTR. JOAO DE OLIVEIRA REMIAO, 6505 - PARADA 16, LOMBA DO PINHEIRO",
+  "secoes": [
+   52,
+   65,
+   79,
+   89,
+   115,
+   135,
+   143,
+   165,
+   196,
+   517
+  ],
+  "eleitores": 3970
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE ENSINO FUNDAMENTAL ONOFRE PIRES",
+  "endereco": "BECO DO DAVID, 269 - PARADA 1A, LOMBA DO PINHEIRO",
+  "secoes": [
+   24,
+   111,
+   138,
+   267,
+   283,
+   303,
+   332,
+   371
+  ],
+  "eleitores": 2642
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DE ENSINO MÉDIO AGRÔNOMO PEDRO PEREIRA",
+  "endereco": "AV. BENTO GONÇALVES, 8426, AGRONOMIA",
+  "secoes": [
+   516,
+   527,
+   536
+  ],
+  "eleitores": 1048
+ },
+ {
+  "zona": 159,
+  "local": "ESC. EST. DR. OSCAR TOLLENS",
+  "endereco": "RUA VIDAL DE NEGREIROS, 432, SÃO JOSÉ",
+  "secoes": [
+   48,
+   66,
+   80,
+   93,
+   116,
+   130,
+   140,
+   161,
+   186,
+   463
+  ],
+  "eleitores": 3633
+ },
+ {
+  "zona": 159,
+  "local": "ESC. MUN. DE 1 GRAU AFONSO GUERREIRO LIMA",
+  "endereco": "RUA GUAIBA, 203 - PARADA 11, LOMBA DO PINHEIRO",
+  "secoes": [
+   8,
+   23,
+   30,
+   61,
+   82,
+   109,
+   133,
+   160,
+   183,
+   210,
+   235,
+   354,
+   366,
+   402,
+   410,
+   492
+  ],
+  "eleitores": 5835
+ },
+ {
+  "zona": 159,
+  "local": "ESC. MUN. DE 1 GRAU HEITOR VILLA LOBOS - CIEM",
+  "endereco": "RUA SANTO DIAS DA SILVA, S/N - VILA MAPA - PARADA 4, LOMBA DO PINHEIRO",
+  "secoes": [
+   12,
+   16,
+   22,
+   53,
+   68,
+   102,
+   108,
+   147,
+   372,
+   400,
+   404,
+   530
+  ],
+  "eleitores": 4801
+ },
+ {
+  "zona": 159,
+  "local": "ESC. MUN. DE 1 GRAU INC. SAINT HILAIRE",
+  "endereco": "RUA GERVAZIO BRAGA PINHEIRO, 427 - VILA PANORAMA - PARADA 18, LOMBA DO PINHEIRO",
+  "secoes": [
+   21,
+   100,
+   152,
+   200,
+   388,
+   389,
+   390,
+   409,
+   475,
+   513
+  ],
+  "eleitores": 3598
+ },
+ {
+  "zona": 159,
+  "local": "ESC. MUN. DE 1 GRAU SAO PEDRO",
+  "endereco": "BECO DA TAQUARA, S/N - VILA SAO PEDRO - PARADA 13, LOMBA DO PINHEIRO",
+  "secoes": [
+   7,
+   15,
+   198,
+   382,
+   383,
+   384,
+   385,
+   386,
+   387,
+   411,
+   471,
+   474,
+   493,
+   506
+  ],
+  "eleitores": 5336
+ },
+ {
+  "zona": 159,
+  "local": "ESC. MUN. ENSINO FUND. PROFA. JUDITH MACEDO DE ARAUJO",
+  "endereco": "RUA SAUL CONSTANTINO, 100 - MORRO DA CRUZ, SÃO JOSÉ",
+  "secoes": [
+   127,
+   173,
+   211,
+   478,
+   488,
+   503,
+   511,
+   526,
+   535
+  ],
+  "eleitores": 3519
+ },
+ {
+  "zona": 159,
+  "local": "ESCOLA DE 1 GRAU NOSSA SENHORA DO BRASIL",
+  "endereco": "RUA ALARICO VALENCA, 161, VILA JOÃO PESSOA",
+  "secoes": [
+   14,
+   17,
+   123,
+   209,
+   216,
+   309,
+   360,
+   370,
+   399
+  ],
+  "eleitores": 3026
+ },
+ {
+  "zona": 159,
+  "local": "ESCOLA ESTADUAL RAFAELA REMIAO",
+  "endereco": "ESTRADA JOÃO DE OLIVEIRA REMIÃO, 2689 - PAR. 06, LOMBA DO PINHEIRO",
+  "secoes": [
+   180,
+   192,
+   201,
+   229,
+   461,
+   469,
+   470,
+   483,
+   484,
+   489,
+   496,
+   505,
+   508,
+   512,
+   525,
+   529,
+   538
+  ],
+  "eleitores": 6289
+ },
+ {
+  "zona": 159,
+  "local": "FACULDADE DE DIREITO- PUCRS (PRÉDIO 11)",
+  "endereco": "AV. IPIRANGA, 6681 - PRÉDIO 11, PARTENON",
+  "secoes": [
+   150,
+   151,
+   158,
+   166,
+   170,
+   182,
+   184,
+   190,
+   202,
+   218,
+   222,
+   227,
+   245,
+   260,
+   287,
+   316,
+   335,
+   459,
+   462,
+   464,
+   465,
+   468,
+   477,
+   479,
+   486,
+   494,
+   502,
+   510
+  ],
+  "eleitores": 6826
+ },
+ {
+  "zona": 159,
+  "local": "PAULO DA GAMA - ESCOLA ESTADUAL",
+  "endereco": "RUA SILVADO, 555, CORONEL APARíCIO BORGES",
+  "secoes": [
+   466,
+   467,
+   481,
+   487,
+   497,
+   507,
+   514,
+   524,
+   531
+  ],
+  "eleitores": 3603
+ },
+ {
+  "zona": 159,
+  "local": "PUCRS - PONTIFÍCIA UNIVERSIDADE CATÓLICA - PRÉDIO 50",
+  "endereco": "AV. IPIRANGA, 6681 - PRÉDIO 50, PARTENON",
+  "secoes": [
+   25,
+   31,
+   33,
+   46,
+   57,
+   58,
+   69,
+   75,
+   86,
+   87,
+   88,
+   103,
+   105,
+   118,
+   121,
+   128,
+   139,
+   148
+  ],
+  "eleitores": 4114
+ },
+ {
+  "zona": 160,
+  "local": "ASSOCIACAO DE ENSINO SANTA TERESA DE JESUS",
+  "endereco": "AV. CAVALHADA, 2250, CAVALHADA",
+  "secoes": [
+   1,
+   5,
+   103,
+   148,
+   151,
+   196,
+   272,
+   374,
+   410,
+   444,
+   455,
+   462,
+   465
+  ],
+  "eleitores": 5019
+ },
+ {
+  "zona": 160,
+  "local": "ASSOCIACAO DO PESSOAL DA CAIXA ECONÔMICA FEDERAL",
+  "endereco": "AV. CEL. MARCOS, 627, PEDRA REDONDA",
+  "secoes": [
+   82,
+   309,
+   419,
+   569
+  ],
+  "eleitores": 1475
+ },
+ {
+  "zona": 160,
+  "local": "CENTRO COMUNITARIO PARQUE MADEPINHO",
+  "endereco": "RUA ARROIO GRANDE, 50, PARQUE MADEPINHO",
+  "secoes": [
+   21,
+   184,
+   377,
+   439,
+   563
+  ],
+  "eleitores": 1230
+ },
+ {
+  "zona": 160,
+  "local": "CLUBE DOS JANGADEIROS",
+  "endereco": "RUA ERNESTO DE PAIVA, 139, VILA ASSUNÇÃO",
+  "secoes": [
+   61,
+   262,
+   413,
+   564
+  ],
+  "eleitores": 1568
+ },
+ {
+  "zona": 160,
+  "local": "COLÉGIO ESTADUAL CONEGO PAULO DE NADAL",
+  "endereco": "RUA FAMÍLIA GONÇALVES CARNEIRO, 105, CAVALHADA",
+  "secoes": [
+   6,
+   20,
+   172,
+   247,
+   311,
+   399,
+   421,
+   438,
+   568
+  ],
+  "eleitores": 3419
+ },
+ {
+  "zona": 160,
+  "local": "COLÉGIO MAE DE DEUS",
+  "endereco": "RUA DR. PEREIRA NETO, 475, TRISTEZA",
+  "secoes": [
+   75,
+   102,
+   156,
+   209,
+   270,
+   333,
+   384,
+   407,
+   435,
+   464
+  ],
+  "eleitores": 3937
+ },
+ {
+  "zona": 160,
+  "local": "COLÉGIO MARISTA IPANEMA",
+  "endereco": "AV. CEL MARCOS 1959, PEDRA REDONDA",
+  "secoes": [
+   7,
+   562,
+   573
+  ],
+  "eleitores": 1072
+ },
+ {
+  "zona": 160,
+  "local": "E. E. 1.G. INC. DR.TANCREDO NEVES",
+  "endereco": "RUA VER. ROBERTO LANDELL DE MOURA, 448, PARQUE LAVOURA",
+  "secoes": [
+   497,
+   498,
+   499
+  ],
+  "eleitores": 1127
+ },
+ {
+  "zona": 160,
+  "local": "E. E. 1.G. JARDIM VILA NOVA",
+  "endereco": "RUA FERNANDO PESSOA, 380, VILA NOVA",
+  "secoes": [
+   500,
+   501,
+   502,
+   503,
+   504,
+   505,
+   506,
+   507,
+   508,
+   509,
+   570
+  ],
+  "eleitores": 4311
+ },
+ {
+  "zona": 160,
+  "local": "E. E. 1.G. MONTE LÍBANO",
+  "endereco": "RUA LEMÚRIA, 10, IPANEMA",
+  "secoes": [
+   492,
+   493,
+   494,
+   495,
+   496
+  ],
+  "eleitores": 1894
+ },
+ {
+  "zona": 160,
+  "local": "E. E. 1.G. PARAÍBA",
+  "endereco": "R ADÃO PINHEIRO DA SILVA, 490, TAPETE VERDE",
+  "secoes": [
+   529,
+   530,
+   531,
+   532,
+   533,
+   534,
+   535,
+   536,
+   537,
+   538,
+   539,
+   540,
+   541,
+   542
+  ],
+  "eleitores": 4757
+ },
+ {
+  "zona": 160,
+  "local": "E. E. DE 1. E 2. GRAUS ODILA GAY DA FONSECA",
+  "endereco": "AV. OSVALDO GONCALVES CRUZ, 444, IPANEMA",
+  "secoes": [
+   543,
+   544,
+   545,
+   546,
+   547,
+   548,
+   549,
+   550,
+   551
+  ],
+  "eleitores": 3521
+ },
+ {
+  "zona": 160,
+  "local": "E. E. PAULINA MORESCO",
+  "endereco": "RUA TOMÉ ANTONIO DE SOUZA,160, CAMPO NOVO",
+  "secoes": [
+   510,
+   511,
+   512,
+   513,
+   514,
+   515,
+   516,
+   517,
+   566
+  ],
+  "eleitores": 3477
+ },
+ {
+  "zona": 160,
+  "local": "E. M. 1.G. LEOCÁDIA FELIZARDO PRESTES",
+  "endereco": "RUA ROMEU VASCONCELOS ROSA, 10, VILA NOVA",
+  "secoes": [
+   518,
+   519,
+   520,
+   521,
+   522,
+   523,
+   524,
+   525,
+   526,
+   527,
+   528
+  ],
+  "eleitores": 3740
+ },
+ {
+  "zona": 160,
+  "local": "E. M. VILA MONTECRISTO",
+  "endereco": "BECO CARLOS SUPERTI, 84, VILA NOVA",
+  "secoes": [
+   146,
+   170,
+   215,
+   403,
+   467,
+   475,
+   552,
+   553,
+   554,
+   555,
+   556,
+   557,
+   558,
+   559,
+   560,
+   561
+  ],
+  "eleitores": 5959
+ },
+ {
+  "zona": 160,
+  "local": "ESC. EST. SANTOS DUMONT",
+  "endereco": "RUA CAETE, 328, VILA ASSUNÇÃO",
+  "secoes": [
+   36,
+   115,
+   160,
+   221,
+   274,
+   318,
+   371,
+   405,
+   437,
+   451,
+   479
+  ],
+  "eleitores": 3889
+ },
+ {
+  "zona": 160,
+  "local": "ESC. MUN. DE ENS. FUND. ARAMY SILVA",
+  "endereco": "RUA CHICO PEDRO, 390 F. 2413382, CAMAQUÃ",
+  "secoes": [
+   316,
+   382,
+   406,
+   428,
+   442,
+   457,
+   460,
+   472
+  ],
+  "eleitores": 2886
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ADVENTISTA DE PORTO ALEGRE",
+  "endereco": "AV. OTTO NIEMEYER, 2124, CAMAQUÃ",
+  "secoes": [
+   4,
+   105,
+   157,
+   200,
+   402,
+   423,
+   433,
+   461,
+   470,
+   474
+  ],
+  "eleitores": 3954
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL ALCEU WAMOSY",
+  "endereco": "RUA JARDIM DAS BROMÉLIAS, 52, CAMAQUÃ",
+  "secoes": [
+   57,
+   80,
+   241,
+   251,
+   398
+  ],
+  "eleitores": 1750
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL LANDEL DE MOURA",
+  "endereco": "RUA JOSE GOMES, 400, TRISTEZA",
+  "secoes": [
+   9,
+   109,
+   173,
+   232,
+   327,
+   389,
+   416,
+   440,
+   456
+  ],
+  "eleitores": 3429
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL OSORIO DUQUE ESTRADA",
+  "endereco": "RUA CIDADE DE NATAL, 125, CRISTAL",
+  "secoes": [
+   49,
+   117,
+   182,
+   249,
+   322,
+   383,
+   427,
+   477
+  ],
+  "eleitores": 2479
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL OTAVIO MANGABEIRA",
+  "endereco": "RUA SILVIO SILVEIRA SOARES, 2551, CAMAQUÃ",
+  "secoes": [
+   235,
+   294,
+   332,
+   378,
+   401,
+   412,
+   425,
+   448
+  ],
+  "eleitores": 2968
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL PADRE REUS",
+  "endereco": "AV. OTTO NIEMEYER, 650, TRISTEZA",
+  "secoes": [
+   25,
+   101,
+   168,
+   239,
+   338,
+   390,
+   404,
+   426,
+   463,
+   567,
+   572
+  ],
+  "eleitores": 4281
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL PEDRO SIRANGELO",
+  "endereco": "RUA JOSE CORREA DA SILVA, 380, JARDIM DAS PALMEIRAS",
+  "secoes": [
+   39,
+   140,
+   256,
+   362,
+   418,
+   450
+  ],
+  "eleitores": 1651
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL RAFAEL PINTO BANDEIRA",
+  "endereco": "RUA CEL. CLAUDINO, 254, CRISTAL",
+  "secoes": [
+   44,
+   45,
+   120,
+   141,
+   183,
+   219,
+   253,
+   295,
+   366,
+   424,
+   466
+  ],
+  "eleitores": 3303
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL ROQUE GONZALES",
+  "endereco": "AV. CAVALHADA, 2433, CAVALHADA",
+  "secoes": [
+   233,
+   289,
+   319,
+   359,
+   397,
+   414,
+   417
+  ],
+  "eleitores": 2745
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL TRES DE OUTUBRO",
+  "endereco": "PRACA COMENDADOR SOUZA GOMES, 2560, TRISTEZA",
+  "secoes": [
+   3,
+   16,
+   111,
+   175,
+   231,
+   298,
+   308,
+   368,
+   408,
+   431,
+   478,
+   571
+  ],
+  "eleitores": 4348
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL VIOLETA MAGALHAES",
+  "endereco": "ESTRADA VILA MARIA, 415, CAVALHADA",
+  "secoes": [
+   68,
+   243,
+   409,
+   452,
+   454
+  ],
+  "eleitores": 1813
+ },
+ {
+  "zona": 160,
+  "local": "ESCOLA ESTADUAL VISCONDE DO RIO GRANDE",
+  "endereco": "PRACA ARATIBA, 19, PARQUE MADEPINHO",
+  "secoes": [
+   31,
+   153,
+   278,
+   396,
+   415,
+   436,
+   453
+  ],
+  "eleitores": 2262
+ },
+ {
+  "zona": 160,
+  "local": "IGREJA SAO MATEUS - GINASIO DE ESPORTES",
+  "endereco": "RUA SARGENTO NICOLAU DIAS DE FARIAS, 568, TRISTEZA",
+  "secoes": [
+   446,
+   459,
+   471,
+   473
+  ],
+  "eleitores": 1442
+ },
+ {
+  "zona": 160,
+  "local": "INSTITUTO EDUCACIONAL JOAO PAULO I",
+  "endereco": "TRAVESSA PEDRA REDONDA, 400, IPANEMA",
+  "secoes": [
+   72,
+   258,
+   422,
+   445
+  ],
+  "eleitores": 1543
+ },
+ {
+  "zona": 160,
+  "local": "INSTITUTO SANTA LUZIA",
+  "endereco": "AV. CAVALHADA, 3999, CAVALHADA",
+  "secoes": [
+   26,
+   150,
+   230,
+   340,
+   429,
+   469,
+   476,
+   565
+  ],
+  "eleitores": 3131
+ },
+ {
+  "zona": 160,
+  "local": "SOCIEDADE EDUCACIONAL LEONARDO DA VINCI - BETA",
+  "endereco": "AV. ICARAI, 1879, CRISTAL",
+  "secoes": [
+   480,
+   481,
+   482,
+   483,
+   484,
+   485,
+   486,
+   487,
+   488,
+   489,
+   490,
+   491
+  ],
+  "eleitores": 3785
+ },
+ {
+  "zona": 160,
+  "local": "TRISTEZENSE PISCINA CLUBE",
+  "endereco": "RUA DR. ARMANDO BARBEDO, 300, TRISTEZA",
+  "secoes": [
+   47,
+   169,
+   443
+  ],
+  "eleitores": 1170
+ },
+ {
+  "zona": 161,
+  "local": "CE DOUTOR GLICÉRIO ALVES",
+  "endereco": "RUA EUSTÁQUIO INÁCIO DA SILVEIRA, 300, BELÉM NOVO",
+  "secoes": [
+   20,
+   27,
+   30,
+   77,
+   104,
+   182,
+   195,
+   288,
+   357,
+   404,
+   405,
+   442
+  ],
+  "eleitores": 4732
+ },
+ {
+  "zona": 161,
+  "local": "CE ENGENHEIRO ILDO MENEGHETTI",
+  "endereco": "RUA EUGÊNIO RODRIGUES, 4919 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   46,
+   71,
+   91,
+   111,
+   141,
+   398,
+   407,
+   412,
+   432,
+   455,
+   461,
+   468,
+   476
+  ],
+  "eleitores": 5693
+ },
+ {
+  "zona": 161,
+  "local": "CESI - ZONA SUL",
+  "endereco": "AV. JUCA BATISTA, 4770, HÍPICA",
+  "secoes": [
+   52,
+   146,
+   155,
+   170,
+   173,
+   419,
+   436,
+   481
+  ],
+  "eleitores": 3532
+ },
+ {
+  "zona": 161,
+  "local": "CLUBE DO PROFESSOR GAÚCHO",
+  "endereco": "AV. GUAÍBA, 12060, IPANEMA",
+  "secoes": [
+   34,
+   135,
+   162,
+   211,
+   259,
+   325,
+   397
+  ],
+  "eleitores": 2840
+ },
+ {
+  "zona": 161,
+  "local": "EEEF ARAGUAIA",
+  "endereco": "ESTR. GEDEON LEITE, 780, HÍPICA",
+  "secoes": [
+   41,
+   50,
+   60,
+   89,
+   105,
+   106,
+   147,
+   164,
+   174,
+   184,
+   301
+  ],
+  "eleitores": 4748
+ },
+ {
+  "zona": 161,
+  "local": "EEEF CLOTILDE CACHAPUZ MEDEIROS",
+  "endereco": "RUA ARACHANES, 242, ESPÍRITO",
+  "secoes": [
+   8,
+   12,
+   62,
+   198,
+   321,
+   401
+  ],
+  "eleitores": 2235
+ },
+ {
+  "zona": 161,
+  "local": "EEEF CUSTÓDIO DE MELLO",
+  "endereco": "RUA ARGEMIRO OGANDO CORRÊA, 220, SERRARIA",
+  "secoes": [
+   14,
+   22,
+   36,
+   55,
+   213,
+   314,
+   402,
+   456
+  ],
+  "eleitores": 2540
+ },
+ {
+  "zona": 161,
+  "local": "EEEF DR. JOSÉ LOUREIRO DA SILVA",
+  "endereco": "ESTR. RETIRO DA PONTA GROSSA, 3541, PONTA GROSSA",
+  "secoes": [
+   26,
+   43,
+   69,
+   97,
+   149,
+   400,
+   431,
+   464
+  ],
+  "eleitores": 3083
+ },
+ {
+  "zona": 161,
+  "local": "EEEF EVARISTA FLORES DA CUNHA",
+  "endereco": "PÇA. INÁCIO ANTÔNIO DA SILVA, S/N, BELÉM NOVO",
+  "secoes": [
+   33,
+   35,
+   87,
+   100,
+   125,
+   163,
+   228,
+   306,
+   363,
+   480
+  ],
+  "eleitores": 3424
+ },
+ {
+  "zona": 161,
+  "local": "EEEF GENERAL NETO",
+  "endereco": "AV. EDGAR PIRES DE CASTRO, 10521, BOA VISTA DO SUL",
+  "secoes": [
+   124,
+   151
+  ],
+  "eleitores": 708
+ },
+ {
+  "zona": 161,
+  "local": "EEEF GENOVEVA DA COSTA BERNARDES",
+  "endereco": "ESTR. OTAVIANO JOSÉ PINTO, 50, LAMI",
+  "secoes": [
+   42,
+   57,
+   168,
+   414,
+   472
+  ],
+  "eleitores": 1730
+ },
+ {
+  "zona": 161,
+  "local": "EEEF HEITOR VILLA-LOBOS",
+  "endereco": "ESTR. DA EXTREMA, 2943, EXTREMA",
+  "secoes": [
+   169
+  ],
+  "eleitores": 251
+ },
+ {
+  "zona": 161,
+  "local": "EEEF HENRIQUE FARJAT",
+  "endereco": "AV. EDGAR PIRES DE CASTRO, 3050, RESTINGA",
+  "secoes": [
+   4,
+   11,
+   39,
+   98,
+   157
+  ],
+  "eleitores": 2185
+ },
+ {
+  "zona": 161,
+  "local": "EEEF LUIZ GAMA",
+  "endereco": "RUA HONDURAS, 115 - LOT. MARIANTE, BELÉM VELHO",
+  "secoes": [
+   10,
+   64,
+   83,
+   143,
+   391,
+   470
+  ],
+  "eleitores": 2102
+ },
+ {
+  "zona": 161,
+  "local": "EEEF MARGARIDA COELHO DE SOUZA",
+  "endereco": "AV. DO LAMI, 4742, BOA VISTA DO SUL",
+  "secoes": [
+   119,
+   175
+  ],
+  "eleitores": 496
+ },
+ {
+  "zona": 161,
+  "local": "EEEF MATHIAS DE ALBUQUERQUE",
+  "endereco": "AV. JUCA BATISTA, 3450, HÍPICA",
+  "secoes": [
+   3,
+   59,
+   126,
+   220
+  ],
+  "eleitores": 1668
+ },
+ {
+  "zona": 161,
+  "local": "EEEF NOSSA SENHORA DA CONCEIÇÃO",
+  "endereco": "AV. JOÃO ANTÔNIO SILVEIRA, 5071, RESTINGA",
+  "secoes": [
+   165,
+   186
+  ],
+  "eleitores": 610
+ },
+ {
+  "zona": 161,
+  "local": "EEEF PEDRO AMERICO",
+  "endereco": "ESTR. CHAPÉU DO SOL, 1680, CHAPÉU DO SOL",
+  "secoes": [
+   120,
+   132
+  ],
+  "eleitores": 754
+ },
+ {
+  "zona": 161,
+  "local": "EEEF PROF. LANGENDONCK",
+  "endereco": "RUA JACUNDÁ, 365, GUARUJÁ",
+  "secoes": [
+   5,
+   54,
+   56,
+   96,
+   102,
+   107,
+   117,
+   128,
+   154,
+   224,
+   275,
+   330,
+   387,
+   446,
+   451
+  ],
+  "eleitores": 5318
+ },
+ {
+  "zona": 161,
+  "local": "EEEF SOLIMÕES",
+  "endereco": "ESTR. DAS QUIRINAS, PRÓX. PDA. 27, LOMBA DO PINHEIRO",
+  "secoes": [
+   2,
+   78,
+   140
+  ],
+  "eleitores": 998
+ },
+ {
+  "zona": 161,
+  "local": "EEEM JOSÉ DO PATROCINIO",
+  "endereco": "RUA BELIZE, 261 (RESTINGA VELHA), RESTINGA",
+  "secoes": [
+   32,
+   68,
+   81,
+   110,
+   112,
+   152,
+   187,
+   260,
+   345,
+   373,
+   429
+  ],
+  "eleitores": 4298
+ },
+ {
+  "zona": 161,
+  "local": "EEEM OSCAR COELHO DE SOUZA",
+  "endereco": "ESTR. DO VAREJÃO, 372, LAMI",
+  "secoes": [
+   24,
+   67,
+   82,
+   113,
+   185,
+   315,
+   449,
+   478
+  ],
+  "eleitores": 3262
+ },
+ {
+  "zona": 161,
+  "local": "EEEM RAUL PILLA",
+  "endereco": "RUA ENG. OSCAR DE OLIVEIRA RAMOS, 660 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   6,
+   37,
+   44,
+   49,
+   84,
+   90,
+   108,
+   158,
+   203,
+   296,
+   351,
+   393
+  ],
+  "eleitores": 4821
+ },
+ {
+  "zona": 161,
+  "local": "EEF MADRE RAFFO",
+  "endereco": "RUA DOUTOR CARLOS FLORES, 53, BELÉM NOVO",
+  "secoes": [
+   23,
+   53,
+   58,
+   61,
+   118,
+   223,
+   326,
+   457
+  ],
+  "eleitores": 2427
+ },
+ {
+  "zona": 161,
+  "local": "EEIEF FAG NHIN",
+  "endereco": "ESTR. JOÃO DE OLIVEIRA REMIÃO, 9105 - PDA. 25, LOMBA DO PINHEIRO",
+  "secoes": [
+   145
+  ],
+  "eleitores": 267
+ },
+ {
+  "zona": 161,
+  "local": "EMEEF TRISTÃO SUCUPIRA VIANNA",
+  "endereco": "AV. ECONOMISTA NILO WULFF, 955 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   9,
+   25,
+   116,
+   142
+  ],
+  "eleitores": 1089
+ },
+ {
+  "zona": 161,
+  "local": "EMEF CAMPOS DO CRISTAL",
+  "endereco": "BECO DO IMPÉRIO, 75 - VILA NOVA, VILA NOVA",
+  "secoes": [
+   7,
+   93,
+   160,
+   177
+  ],
+  "eleitores": 1702
+ },
+ {
+  "zona": 161,
+  "local": "EMEF CHAPÉU DO SOL",
+  "endereco": "RUA GOMERCINDO DE OLIVEIRA, S/N - LOT. CHAPÉU DO SOL, CHAPÉU DO SOL",
+  "secoes": [
+   1,
+   76,
+   136,
+   167,
+   427,
+   477
+  ],
+  "eleitores": 2299
+ },
+ {
+  "zona": 161,
+  "local": "EMEF DOLORES ALCARAZ CALDAS",
+  "endereco": "RUA CARLOS NIEDERAUER HOFMEISTER, 85 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   16,
+   17,
+   29,
+   86,
+   99,
+   130,
+   180,
+   227,
+   304,
+   355,
+   394,
+   445
+  ],
+  "eleitores": 4432
+ },
+ {
+  "zona": 161,
+  "local": "EMEF LIDOVINO FANTON",
+  "endereco": "RUA MANOEL FARIA ROSA PRIMO, 940 (RESTINGA VELHA), RESTINGA",
+  "secoes": [
+   18,
+   19,
+   79,
+   85,
+   92,
+   410,
+   422,
+   440,
+   459
+  ],
+  "eleitores": 3332
+ },
+ {
+  "zona": 161,
+  "local": "EMEF MORADAS DA HIPICA",
+  "endereco": "RUA GERALDO TOLLENS LINCK, S/N, HÍPICA",
+  "secoes": [
+   28,
+   38,
+   47,
+   109,
+   123,
+   137,
+   138,
+   148,
+   150,
+   159,
+   161,
+   176,
+   178,
+   181
+  ],
+  "eleitores": 5272
+ },
+ {
+  "zona": 161,
+  "local": "EMEF MÁRIO QUINTANA",
+  "endereco": "RUA C, 1 (VILA CASTELO - 5 UNIDADE), RESTINGA",
+  "secoes": [
+   40,
+   48,
+   115,
+   144
+  ],
+  "eleitores": 1515
+ },
+ {
+  "zona": 161,
+  "local": "EMEF NOSSA SENHORA DO CARMO",
+  "endereco": "RUA BISPO MARINO PRUDÊNCIO MOREIRA, 95 (5A UNIDADE), RESTINGA",
+  "secoes": [
+   121,
+   133,
+   153,
+   183
+  ],
+  "eleitores": 1664
+ },
+ {
+  "zona": 161,
+  "local": "EMEF PROF. ANÍSIO TEIXEIRA",
+  "endereco": "RUA FRANCISCO MATTOS TERRES, 40, ABERTA DOS MORROS",
+  "secoes": [
+   15,
+   45,
+   73,
+   103,
+   134,
+   172,
+   403,
+   426,
+   444,
+   469
+  ],
+  "eleitores": 4078
+ },
+ {
+  "zona": 161,
+  "local": "EMEF PROF. LARRY JOSE RIBEIRO ALVES - CIEM",
+  "endereco": "AV. ECONOMISTA NILO WULFF, 1001 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   31,
+   65,
+   80,
+   131,
+   418,
+   420,
+   424,
+   435,
+   450,
+   460,
+   473
+  ],
+  "eleitores": 3549
+ },
+ {
+  "zona": 161,
+  "local": "EMEF RINCÃO",
+  "endereco": "RUA LUIZ OTAVIO, 391, BELÉM VELHO",
+  "secoes": [
+   88,
+   122,
+   166
+  ],
+  "eleitores": 1316
+ },
+ {
+  "zona": 161,
+  "local": "EMEF SENADOR ALBERTO PASQUALINI",
+  "endereco": "RUA TENENTE ARISOLY FAGUNDES, 250 (RESTINGA NOVA), RESTINGA",
+  "secoes": [
+   13,
+   66,
+   70,
+   94,
+   101,
+   127,
+   129,
+   179,
+   226,
+   317,
+   365,
+   439
+  ],
+  "eleitores": 4342
+ },
+ {
+  "zona": 161,
+  "local": "EMEF VEREADOR CARLOS PESSOA DE BRUM",
+  "endereco": "RUA ABOLIÇÃO, 1 (RESTINGA VELHA), RESTINGA",
+  "secoes": [
+   21,
+   75,
+   114,
+   139,
+   437,
+   452,
+   465,
+   475
+  ],
+  "eleitores": 3048
+ },
+ {
+  "zona": 161,
+  "local": "ESCOLA DE EDUCAÇÃO INFANTIL ARCO IRIS I",
+  "endereco": "RUA TOBAGO, 1258 (RESTINGA VELHA), RESTINGA",
+  "secoes": [
+   51
+  ],
+  "eleitores": 226
+ },
+ {
+  "zona": 161,
+  "local": "ESPORTE CLUBE LAJEADO",
+  "endereco": "AV. EDGAR PIRES DE CASTRO, 9316, LAGEADO",
+  "secoes": [
+   74,
+   95,
+   425
+  ],
+  "eleitores": 1301
+ },
+ {
+  "zona": 161,
+  "local": "PARÓQUIA N. S. APARECIDA DA RESTINGA - C. SOCIAL APARECIDA RESTINGA",
+  "endereco": "ESTR. CHÁCARA DO BANCO, 71 (RESTINGA VELHA), RESTINGA",
+  "secoes": [
+   63,
+   156
+  ],
+  "eleitores": 670
+ },
+ {
+  "zona": 161,
+  "local": "SÃO FRANCISCO PROJETO SOCIAL",
+  "endereco": "AV. PRINCIPAL DA PONTA GROSSA, 1701, PONTA GROSSA",
+  "secoes": [
+   72,
+   171
+  ],
+  "eleitores": 587
+ }
+]
